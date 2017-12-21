@@ -1,2 +1,26 @@
-encoding: utf-8
-theme: jekyll-theme-slate
+# Site settings
+name: SYP's Blog
+email: siyipu0118@163.com
+author: Sinsa SI
+# url: http://www.hifreud.com
+# resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/sinsa110
+baseurl: ""
+description: Ten thousand hours to explore the power of data science
+meta_description: 个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: sinsa110
+
+# Build settings
+markdown: kramdown
+
+# baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
