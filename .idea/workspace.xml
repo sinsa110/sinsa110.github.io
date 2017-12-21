@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2017/06/08/change-the-comment-provider-to-yuntentie/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2017/07/24/abandon-the-comment-feature/index.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/lefttree.html" afterPath="$PROJECT_DIR$/_includes/lefttree.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/08/27/how-to-use-this-jekyll-theme/index.html" afterPath="$PROJECT_DIR$/_site/2016/08/27/how-to-use-this-jekyll-theme/index.html" />
@@ -13,6 +12,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/method/index.html" afterPath="$PROJECT_DIR$/_site/donate/method/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="$PROJECT_DIR$/_site/reference/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donate/index.md" afterPath="$PROJECT_DIR$/donate/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,9 +40,19 @@
               <caret line="138" column="18" lean-forward="true" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1513861292000" expanded="false" signature="5090:5097" ph="»" />
-                <marker date="1513861292000" expanded="false" signature="5637:5644" ph="»" />
-                <marker date="1513861292000" expanded="false" signature="6043:6049" ph="©" />
+                <marker date="1513862735000" expanded="true" signature="4612:5906" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="4655:5891" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="4689:5874" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="4722:5855" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="4972:5248" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="5034:5180" ph="..." />
+                <marker date="1513862735000" expanded="false" signature="5090:5097" ph="»" />
+                <marker date="1513862735000" expanded="true" signature="5387:5798" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="5583:5753" ph="..." />
+                <marker date="1513862735000" expanded="false" signature="5637:5644" ph="»" />
+                <marker date="1513862735000" expanded="true" signature="5983:6231" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="6008:6221" ph="..." />
+                <marker date="1513862735000" expanded="false" signature="6043:6049" ph="©" />
               </folding>
             </state>
           </provider>
@@ -71,8 +81,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="40" column="69" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="69" />
+            <state relative-caret-position="274">
+              <caret line="41" column="25" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="41" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -80,11 +90,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docs_header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/docs_header.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/donate/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="-3033">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513862735000" expanded="true" signature="5116:5133" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="5274:5522" ph="..." />
+                <marker date="1513862735000" expanded="true" signature="5299:5512" ph="..." />
+                <marker date="1513862735000" expanded="false" signature="5334:5340" ph="©" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/donate/index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -107,16 +132,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="263">
               <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-142">
-              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -168,7 +183,6 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/donate/index.md" />
         <option value="$PROJECT_DIR$/donate/method/index.md" />
         <option value="$PROJECT_DIR$/_includes/docs_header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -177,8 +191,9 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2016-08-27-how-to-use-this-jekyll-theme.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/donate/index.md" />
         <option value="$PROJECT_DIR$/_includes/lefttree.html" />
       </list>
     </option>
@@ -242,7 +257,7 @@
             <path>
               <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="donate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -459,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513859747136</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="post">
+      <created>1513861382323</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1513861382331</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -685,13 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/donate/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/donate/method/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -809,25 +824,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="40" column="69" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="138" column="18" lean-forward="true" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1513861292000" expanded="false" signature="5090:5097" ph="»" />
-            <marker date="1513861292000" expanded="false" signature="5637:5644" ph="»" />
-            <marker date="1513861292000" expanded="false" signature="6043:6049" ph="©" />
+            <marker date="1513862735000" expanded="true" signature="4612:5906" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="4655:5891" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="4689:5874" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="4722:5855" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="4972:5248" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="5034:5180" ph="..." />
+            <marker date="1513862735000" expanded="false" signature="5090:5097" ph="»" />
+            <marker date="1513862735000" expanded="true" signature="5387:5798" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="5583:5753" ph="..." />
+            <marker date="1513862735000" expanded="false" signature="5637:5644" ph="»" />
+            <marker date="1513862735000" expanded="true" signature="5983:6231" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="6008:6221" ph="..." />
+            <marker date="1513862735000" expanded="false" signature="6043:6049" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/donate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3033">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513862735000" expanded="true" signature="5116:5133" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="5274:5522" ph="..." />
+            <marker date="1513862735000" expanded="true" signature="5299:5512" ph="..." />
+            <marker date="1513862735000" expanded="false" signature="5334:5340" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/donate/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="41" column="25" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -836,14 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
           <folding />
         </state>
       </provider>

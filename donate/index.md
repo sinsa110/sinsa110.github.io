@@ -27,7 +27,7 @@ header: 打赏
 <hr>
 您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.png' | prepend: site.baseurl }}" alt="支付宝二维码付款给 sinsa" width="310" />
+<img src="/styles/images/zhifubao.png" width = "300" height = "300" alt="支付宝二维码付款给 sinsa"/>
 
 <br>
 <br>
@@ -38,7 +38,7 @@ header: 打赏
 <hr>
 您可以选择手机微信扫一扫
 
-![微信二维码付款给sinsa]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
+<img src="/styles/images/weixin.png" width = "300" height = "300" alt="微信二维码付款给sinsa"/>
 
 <br>
 <br>
