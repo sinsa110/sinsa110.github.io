@@ -26,7 +26,7 @@ permlink: /method
 <hr>
 您可以选择手机微信扫一扫
 
-![微信二维码付款给 sinsa]({{ '/styles/images/weixin.png' | prepend: site.baseurl }})
+<img src="/styles/images/weixin.png" width = "300" height = "300" alt="微信二维码付款给sinsa"/>
 
 <br>
 <br>
