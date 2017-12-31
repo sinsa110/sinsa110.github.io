@@ -22,3 +22,7 @@ permalink: /about_me/
 ## 工作经历
 ------
 2014.12 至今  杭州某互联网风控公司 高级数据分析师
+
+## 交流方式
+
+见 [打赏页面](https://sinsa110.github.io/donate/)
