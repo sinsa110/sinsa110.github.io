@@ -5,8 +5,8 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jan 2018 22:30:01 +0800</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2018 22:30:01 +0800</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2018 22:40:49 +0800</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2018 22:40:49 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -25,6 +25,7 @@
       &lt;li&gt;&lt;a href=&quot;#python&quot; id=&quot;markdown-toc-python&quot;&gt;python 版&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#参考资料&quot; id=&quot;markdown-toc-参考资料&quot;&gt;参考资料&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;concept&quot;&gt;概念&lt;/h3&gt;
@@ -129,6 +130,13 @@
 
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;参考资料&quot;&gt;参考资料&lt;/h3&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.runoob.com/python/att-dictionary-setdefault.html&quot;&gt;Python 字典(Dictionary) setdefault()方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Thu, 04 Jan 2018 01:08:00 +0800</pubDate>

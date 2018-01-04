@@ -111,6 +111,11 @@ if __name__ == '__main__':
 
 ```
 
+### 参考资料
+---
+
+* [Python 字典(Dictionary) setdefault()方法](http://www.runoob.com/python/att-dictionary-setdefault.html)
+
 
 
 
