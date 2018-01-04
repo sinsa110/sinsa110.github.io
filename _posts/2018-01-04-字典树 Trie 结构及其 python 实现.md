@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  字典树 Trie 结构及其 python 实现
+title:  字典树 Trie 结构介绍及其 python 实现
 date:   2018-01-04 +0800
 categories: python
 tag: Trie 树
