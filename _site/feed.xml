@@ -5,12 +5,12 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jan 2018 21:58:19 +0800</pubDate>
-    <lastBuildDate>Thu, 04 Jan 2018 21:58:19 +0800</lastBuildDate>
+    <pubDate>Thu, 04 Jan 2018 22:03:23 +0800</pubDate>
+    <lastBuildDate>Thu, 04 Jan 2018 22:03:23 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>字典树 Trie 结构介绍及其 python 实现</title>
+        <title>字典树 Trie 结构介绍及其实现</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#concept&quot; id=&quot;markdown-toc-concept&quot;&gt;概念&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#xz&quot; id=&quot;markdown-toc-xz&quot;&gt;性质&lt;/a&gt;&lt;/li&gt;
@@ -27,10 +27,10 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;concept&quot;&gt;概念&lt;/h1&gt;
+&lt;h2 id=&quot;concept&quot;&gt;概念&lt;/h2&gt;
 &lt;p&gt;Trie，又称前缀树或字典树，是一种有序树状的数据结构，用于保存关联数组，其中的键通常是字符串。&lt;/p&gt;
 
-&lt;h1 id=&quot;xz&quot;&gt;性质&lt;/h1&gt;
+&lt;h2 id=&quot;xz&quot;&gt;性质&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;根节点不包含字符，除根节点外的每个节点只包含一个字符。&lt;/li&gt;
   &lt;li&gt;从根节点到某一个节点，路径上经过的字符连接起来，为该节点对应的字符串。&lt;/li&gt;
@@ -38,16 +38,16 @@
   &lt;li&gt;每个节点的所有子孙都有相同的前缀，也就是这个节点对应的字符串。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&quot;sx&quot;&gt;基本思想&lt;/h1&gt;
+&lt;h2 id=&quot;sx&quot;&gt;基本思想&lt;/h2&gt;
 
-&lt;h2 id=&quot;cr&quot;&gt;1、插入过程&lt;/h2&gt;
+&lt;h3 id=&quot;cr&quot;&gt;1、插入过程&lt;/h3&gt;
 &lt;p&gt;这里以字母树为例，对于一个单词，从根开始，沿着单词的各个字母所对应的树中的节点分支向下走，直到单词遍历完，将最后的节点标记为红色，表示该单词已插入Trie树。&lt;/p&gt;
 
-&lt;h2 id=&quot;find&quot;&gt;2、查询过程&lt;/h2&gt;
+&lt;h3 id=&quot;find&quot;&gt;2、查询过程&lt;/h3&gt;
 
 &lt;p&gt;同样的，从根开始按照单词的字母顺序向下遍历trie树，一旦发现某个节点标记不存在或者单词遍历完成而最后的节点未标记为红色，则表示该单词不存在，若最后的节点标记为红色，表示该单词存在。&lt;/p&gt;
 
-&lt;h1 id=&quot;yy&quot;&gt;应用&lt;/h1&gt;
+&lt;h2 id=&quot;yy&quot;&gt;应用&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;关键词检索&lt;/li&gt;
   &lt;li&gt;词频统计&lt;/li&gt;
@@ -56,14 +56,14 @@
   &lt;li&gt;… …&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&quot;yqd&quot;&gt;优缺点&lt;/h1&gt;
+&lt;h2 id=&quot;yqd&quot;&gt;优缺点&lt;/h2&gt;
 &lt;p&gt;优点：时间复杂度小。它的插入和查询时间复杂度都为 O(k) ，其中 k 为 key 的长度，与 Trie 中保存了多少个元素无关。&lt;/p&gt;
 
 &lt;p&gt;缺点：空间消耗很高。&lt;/p&gt;
 
-&lt;h1 id=&quot;sx&quot;&gt;实现&lt;/h1&gt;
+&lt;h2 id=&quot;sx&quot;&gt;实现&lt;/h2&gt;
 
-&lt;h2 id=&quot;python&quot;&gt;python 版&lt;/h2&gt;
+&lt;h3 id=&quot;python&quot;&gt;python 版&lt;/h3&gt;
 
 &lt;p&gt;用嵌套字典来实现树结构&lt;/p&gt;
 

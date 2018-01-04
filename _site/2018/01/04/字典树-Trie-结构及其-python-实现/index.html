@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>字典树 Trie 结构介绍及其 python 实现 - SYP's Blog</title>
+	<title>字典树 Trie 结构介绍及其实现 - SYP's Blog</title>
 
 	<link rel="shortcut icon" href="/styles/images/favicon.jpg">
 	<link rel="icon" href="/styles/images/favicon.jpg">
@@ -16,7 +16,7 @@
 	<link rel="canonical" href="/2018/01/04/%E5%AD%97%E5%85%B8%E6%A0%91-Trie-%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6-python-%E5%AE%9E%E7%8E%B0/">
 	<link rel="alternate" type="application/rss+xml" title="SYP's Blog" href="/feed.xml">
 	
-	<meta name="keywords" content="字典树 Trie 结构介绍及其 python 实现, SYP's Blog, 个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
+	<meta name="keywords" content="字典树 Trie 结构介绍及其实现, SYP's Blog, 个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
 	<meta name="description" content="个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
 
 	<script src="/styles/js/jquery.min.js"></script>
@@ -88,7 +88,7 @@
   <div class="container">
   	
   		<!--
-		    <h1>字典树 Trie 结构介绍及其 python 实现</h1>
+		    <h1>字典树 Trie 结构介绍及其实现</h1>
 		    <p>Post on Jan 04, 2018 by <a href="/about">Sinsa SI</a></p>
 		-->
 		    <h3>If you find a path with no obstacles, it probably doesn’t lead anywhere.</h3>
@@ -128,7 +128,7 @@
       <div class="panel docs-content">
         <div class="wrapper">
             <header class="post-header">
-              <h1 class="post-title">字典树 Trie 结构介绍及其 python 实现</h1>
+              <h1 class="post-title">字典树 Trie 结构介绍及其实现</h1>
               <!--
                 <p class="post-meta">Jan 4, 2018</p>
               -->
@@ -152,10 +152,10 @@
   </li>
 </ul>
 
-<h1 id="concept">概念</h1>
+<h2 id="concept">概念</h2>
 <p>Trie，又称前缀树或字典树，是一种有序树状的数据结构，用于保存关联数组，其中的键通常是字符串。</p>
 
-<h1 id="xz">性质</h1>
+<h2 id="xz">性质</h2>
 <ol>
   <li>根节点不包含字符，除根节点外的每个节点只包含一个字符。</li>
   <li>从根节点到某一个节点，路径上经过的字符连接起来，为该节点对应的字符串。</li>
@@ -163,16 +163,16 @@
   <li>每个节点的所有子孙都有相同的前缀，也就是这个节点对应的字符串。</li>
 </ol>
 
-<h1 id="sx">基本思想</h1>
+<h2 id="sx">基本思想</h2>
 
-<h2 id="cr">1、插入过程</h2>
+<h3 id="cr">1、插入过程</h3>
 <p>这里以字母树为例，对于一个单词，从根开始，沿着单词的各个字母所对应的树中的节点分支向下走，直到单词遍历完，将最后的节点标记为红色，表示该单词已插入Trie树。</p>
 
-<h2 id="find">2、查询过程</h2>
+<h3 id="find">2、查询过程</h3>
 
 <p>同样的，从根开始按照单词的字母顺序向下遍历trie树，一旦发现某个节点标记不存在或者单词遍历完成而最后的节点未标记为红色，则表示该单词不存在，若最后的节点标记为红色，表示该单词存在。</p>
 
-<h1 id="yy">应用</h1>
+<h2 id="yy">应用</h2>
 <ol>
   <li>关键词检索</li>
   <li>词频统计</li>
@@ -181,14 +181,14 @@
   <li>… …</li>
 </ol>
 
-<h1 id="yqd">优缺点</h1>
+<h2 id="yqd">优缺点</h2>
 <p>优点：时间复杂度小。它的插入和查询时间复杂度都为 O(k) ，其中 k 为 key 的长度，与 Trie 中保存了多少个元素无关。</p>
 
 <p>缺点：空间消耗很高。</p>
 
-<h1 id="sx">实现</h1>
+<h2 id="sx">实现</h2>
 
-<h2 id="python">python 版</h2>
+<h3 id="python">python 版</h3>
 
 <p>用嵌套字典来实现树结构</p>
 
