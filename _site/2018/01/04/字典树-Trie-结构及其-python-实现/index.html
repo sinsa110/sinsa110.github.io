@@ -137,27 +137,27 @@
             </header>
             <article class="post-content">
               <ul id="markdown-toc">
-  <li><a href="#concept" id="markdown-toc-concept">概念</a></li>
-  <li><a href="#xz" id="markdown-toc-xz">性质</a></li>
-  <li><a href="#sx" id="markdown-toc-sx">基本思想</a>    <ul>
-      <li><a href="#cr" id="markdown-toc-cr">1、插入过程</a></li>
-      <li><a href="#find" id="markdown-toc-find">2、查询过程</a></li>
+  <li><a href="#概念" id="markdown-toc-概念">概念</a></li>
+  <li><a href="#性质" id="markdown-toc-性质">性质</a></li>
+  <li><a href="#基本思想" id="markdown-toc-基本思想">基本思想</a>    <ul>
+      <li><a href="#1插入过程" id="markdown-toc-1插入过程">1、插入过程</a></li>
+      <li><a href="#2查询过程" id="markdown-toc-2查询过程">2、查询过程</a></li>
     </ul>
   </li>
-  <li><a href="#yy" id="markdown-toc-yy">应用</a></li>
-  <li><a href="#yqd" id="markdown-toc-yqd">优缺点</a></li>
-  <li><a href="#sx" id="markdown-toc-sx">实现</a>    <ul>
-      <li><a href="#python" id="markdown-toc-python">python 版</a></li>
+  <li><a href="#应用" id="markdown-toc-应用">应用</a></li>
+  <li><a href="#优缺点" id="markdown-toc-优缺点">优缺点</a></li>
+  <li><a href="#实现" id="markdown-toc-实现">实现</a>    <ul>
+      <li><a href="#python-版" id="markdown-toc-python-版">python 版</a></li>
     </ul>
   </li>
   <li><a href="#参考资料" id="markdown-toc-参考资料">参考资料</a></li>
 </ul>
 
-<h3 id="concept">概念</h3>
+<h3 id="概念">概念</h3>
 <hr />
 <p>Trie，又称前缀树或字典树，是一种有序树状的数据结构，用于保存关联数组，其中的键通常是字符串。</p>
 
-<h3 id="xz">性质</h3>
+<h3 id="性质">性质</h3>
 <hr />
 <ol>
   <li>根节点不包含字符，除根节点外的每个节点只包含一个字符。</li>
@@ -166,17 +166,17 @@
   <li>每个节点的所有子孙都有相同的前缀，也就是这个节点对应的字符串。</li>
 </ol>
 
-<h3 id="sx">基本思想</h3>
+<h3 id="基本思想">基本思想</h3>
 <hr />
 
-<h4 id="cr">1、插入过程</h4>
+<h4 id="1插入过程">1、插入过程</h4>
 <p>这里以字母树为例，对于一个单词，从根开始，沿着单词的各个字母所对应的树中的节点分支向下走，直到单词遍历完，将最后的节点标记为红色，表示该单词已插入Trie树。</p>
 
-<h4 id="find">2、查询过程</h4>
+<h4 id="2查询过程">2、查询过程</h4>
 
 <p>同样的，从根开始按照单词的字母顺序向下遍历trie树，一旦发现某个节点标记不存在或者单词遍历完成而最后的节点未标记为红色，则表示该单词不存在，若最后的节点标记为红色，表示该单词存在。</p>
 
-<h3 id="yy">应用</h3>
+<h3 id="应用">应用</h3>
 <hr />
 <ol>
   <li>关键词检索</li>
@@ -186,16 +186,16 @@
   <li>… …</li>
 </ol>
 
-<h3 id="yqd">优缺点</h3>
+<h3 id="优缺点">优缺点</h3>
 <hr />
 <p>优点：时间复杂度小。它的插入和查询时间复杂度都为 O(k) ，其中 k 为 key 的长度，与 Trie 中保存了多少个元素无关。</p>
 
 <p>缺点：空间消耗很高。</p>
 
-<h3 id="sx">实现</h3>
+<h3 id="实现">实现</h3>
 <hr />
 
-<h4 id="python">python 版</h4>
+<h4 id="python-版">python 版</h4>
 
 <p>用嵌套字典来实现树结构</p>
 
