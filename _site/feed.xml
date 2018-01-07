@@ -5,8 +5,8 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jan 2018 14:21:03 +0800</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2018 14:21:03 +0800</lastBuildDate>
+    <pubDate>Sun, 07 Jan 2018 14:28:25 +0800</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2018 14:28:25 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -252,11 +252,12 @@ tag: 教程
     
       <item>
         <title>以此博客纪念工作三周年</title>
-        <description>&lt;p&gt;2014 年 12 月 20 日，开启了我的工作生涯。&lt;/p&gt;
+        <description>
+&lt;p&gt;2014 年 12 月 20 日，开启了我的工作生涯。&lt;/p&gt;
 
-&lt;p&gt;三年过去了，感觉自己还在原地，没有多少沉淀。&lt;/p&gt;
+&lt;p&gt;三年过去了，工作之余也整理了一些知识点 ( 见&lt;a href=&quot;http://blog.csdn.net/sinsa110&quot;&gt;csdn blog&lt;/a&gt;)，但不够系统。&lt;/p&gt;
 
-&lt;p&gt;为此搭建此博客，希望自己能够花费更多的时间去总结，去记录工作和生活。&lt;/p&gt;
+&lt;p&gt;为此搭建此博客，希望自己能够花费更多的时间&lt;strong&gt;去总结，去记录&lt;/strong&gt;工作和生活。&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 21 Dec 2017 00:00:00 +0800</pubDate>
