@@ -5,9 +5,66 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Apr 2018 21:34:14 +0800</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 21:34:14 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 15:39:01 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 15:39:01 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>pandas dataframe 中的 explode 函数</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#pandas-dataframe-中的-explode-函数&quot; id=&quot;markdown-toc-pandas-dataframe-中的-explode-函数&quot;&gt;pandas dataframe 中的 explode 函数&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#code&quot; id=&quot;markdown-toc-code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;pandas-dataframe-中的-explode-函数&quot;&gt;pandas dataframe 中的 explode 函数&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在使用 pandas 进行数据分析的过程中，我们常常会遇到将一行数据展开成多行的需求，多么希望能有一个类似于 hive sql 中的 explode 函数。这个函数如下：&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# !/usr/bin/env python
+# -*- coding:utf-8 -*-
+# create on 18/4/13
+import pandas as pd
+
+
+def dataframe_explode(dataframe, fieldname): 
+    temp_fieldname = fieldname + '_made_tuple_' 
+    dataframe[temp_fieldname] = dataframe[fieldname].apply(tuple)       
+    list_of_dataframes = []
+    for values in dataframe[temp_fieldname].unique().tolist(): 
+        list_of_dataframes.append(pd.DataFrame({
+            temp_fieldname: [values] * len(values), 
+            fieldname: list(values), 
+        }))
+    dataframe = dataframe[list(set(dataframe.columns) - set([fieldname]))].merge(pd.concat(list_of_dataframes), how='left', on=temp_fieldname) 
+    del dataframe[temp_fieldname]
+    return dataframe
+
+
+df = pd.DataFrame({'listcol':[[1,2,3],[4,5,6]], &quot;aa&quot;: [222,333]})
+df = dataframe_explode(df, &quot;listcol&quot;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;将 dataframe 按照某一指定列进行展开，使得原来的每一行展开成一行或多行。( 注：该列可迭代， 例如list, tuple, set)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Apr 2018 01:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/04/13/pandas-dataframe-%E4%B8%AD%E7%9A%84-explode-%E5%87%BD%E6%95%B0/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/13/pandas-dataframe-%E4%B8%AD%E7%9A%84-explode-%E5%87%BD%E6%95%B0/</guid>
+        
+        <category>pandas;dataframe;explode</category>
+        
+        
+        <category>python</category>
+        
+      </item>
     
       <item>
         <title>Python3.x 和 Python2.x 的主要区别</title>
@@ -311,8 +368,9 @@ __delitem__调用
 
 &lt;h2 id=&quot;参考&quot;&gt;参考&lt;/h2&gt;
 &lt;ol&gt;
-  &lt;li&gt;http://www.cnblogs.com/codingmylife/archive/2010/06/06/1752807.html&lt;/li&gt;
-  &lt;li&gt;https://www.cnblogs.com/hanggegege/p/5840005.html&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/codingmylife/archive/2010/06/06/1752807.html&quot;&gt; http://www.cnblogs.com/codingmylife/archive/2010/06/06/1752807.html
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cnblogs.com/hanggegege/p/5840005.html&quot;&gt; https://www.cnblogs.com/hanggegege/p/5840005.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 09 Apr 2018 00:00:00 +0800</pubDate>
