@@ -15,7 +15,9 @@
 	<link rel="stylesheet" href="/styles/css/syntax.css">
 	<link rel="canonical" href="/2018/04/13/pandas-dataframe-%E4%B8%AD%E7%9A%84-explode-%E5%87%BD%E6%95%B0/">
 	<link rel="alternate" type="application/rss+xml" title="SYP's Blog" href="/feed.xml">
-	
+
+	<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
 	<meta name="keywords" content="pandas dataframe 中的 explode 函数, SYP's Blog, 个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
 	<meta name="description" content="个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
 
@@ -204,6 +206,24 @@ df = dataframe_explode(df, "listcol")
 		<p>Powered by <a href="http://jekyllrb.com">Jekyll</a>, themed from <a href="http://lesscss.cn/">Less</a>.</p>
 	</div>
 </footer>
+<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
+      opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
+	<input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
+
+	<div style="position: fixed; top: 16px; right: 16px;">
+		<img src="/search/img/cb-close.png"  id="cb-close-btn"/>
+	</div>
+</div>
+
+<div style="position: fixed; right: 16px; bottom: 20px;">
+	<img src="/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
+</div>
+
+<link rel="stylesheet" href="/search/css/cb-search.css">
+
+<script src="/search/js/bootstrap3-typeahead.min.js"></script>
+<script src="/search/js/cb-search.js"></script>
+
 
 <script src="/styles/js/jquery.min.js"></script>
 <script src="/styles/js/bootstrap.min.js"></script>
@@ -211,6 +231,12 @@ df = dataframe_explode(df, "listcol")
 <script src="/styles/js/lessismore.js"></script>
 <script src="/styles/js/application.js"></script>
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<!-- jQuery -->
+<script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
   </body>
 </html>
