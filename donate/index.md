@@ -23,37 +23,30 @@ date:   2017-12-31 +0800
 
 <hr>
 
-赞助方式一：`支付宝扫一扫`
+打赏方式：`支付宝或微信扫一扫`
 ------------------------------
 
 <hr>
-您可以选择手机支付宝扫一扫
+您可以选择手机支付宝（左）或微信（右）扫一扫
 
 <img src="/styles/images/zhifubao.png" width = "300" height = "300" alt="支付宝二维码付款给 sinsa"/>
-
-<br>
-<br>
-
-赞助方式二：`微信扫一扫`
-------------------------------
-
-<hr>
-您可以选择手机微信扫一扫
-
 <img src="/styles/images/weixin.png" width = "300" height = "300" alt="微信二维码付款给sinsa"/>
 
 <br>
 <br>
 
-联系方式：`新浪微博扫一扫`
+联系方式：`新浪微博或脉脉扫一扫`
 ------------------------------
 
 <hr>
-您可以选择手机微博扫一扫
+您可以选择手机微博（左）或脉脉（右）扫一扫
 
 <img src="/styles/images/weibo.png" width = "300" height = "300" alt="微博二维码"/>
+<img src="/styles/images/maimai.jpeg" width = "300" height = "300" alt="脉脉二维码"/>
 
 <br>
 <br>
+
+
 <hr>
 
