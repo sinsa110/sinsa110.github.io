@@ -1,25 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" />
+    <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="ADD content">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" afterPath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/14/goodbye-to-my-2017/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/14/goodbye-to-my-2017/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/09/Python3.x和Python2.x的主要区别/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/09/Python3.x和Python2.x的主要区别/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about_me/index.html" afterPath="$PROJECT_DIR$/_site/about_me/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books/index.html" afterPath="$PROJECT_DIR$/_site/books/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/categories/index.html" afterPath="$PROJECT_DIR$/_site/categories/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/index.html" afterPath="$PROJECT_DIR$/_site/donate/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/method/index.html" afterPath="$PROJECT_DIR$/_site/donate/method/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="$PROJECT_DIR$/_site/reference/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/index.html" afterPath="$PROJECT_DIR$/_site/tag/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,26 +52,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-684">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/categories/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-08-27-how-to-use-this-jekyll-theme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-08-27-how-to-use-this-jekyll-theme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -123,8 +100,18 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="41" column="2" lean-forward="true" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+            <state relative-caret-position="259">
+              <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-13-pandas dataframe 中的 explode 函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -181,6 +168,7 @@
         <option value="$PROJECT_DIR$/books.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-14-goodbye-to-my-2017.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
@@ -578,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523281840439</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ADD content">
+      <created>1523605155709</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1523605155710</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -632,20 +627,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/lefttree.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -888,20 +869,20 @@
         <state relative-caret-position="4738">
           <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding>
-            <marker date="1523605081000" expanded="true" signature="7023:7790" ph="..." />
-            <marker date="1523605081000" expanded="true" signature="7023:8816" ph="..." />
-            <marker date="1523605081000" expanded="true" signature="7023:8835" ph="..." />
-            <marker date="1523605081000" expanded="true" signature="7023:8852" ph="..." />
-            <marker date="1523605081000" expanded="true" signature="7023:8867" ph="..." />
-            <marker date="1523605081000" expanded="true" signature="7084:7228" ph="..." />
-            <marker date="1523605081000" expanded="false" signature="7139:7146" ph="»" />
-            <marker date="1523605081000" expanded="true" signature="7491:7722" ph="..." />
-            <marker date="1523605081000" expanded="false" signature="7546:7553" ph="»" />
-            <marker date="1523605081000" expanded="true" signature="7933:8759" ph="..." />
-            <marker date="1523605081000" expanded="true" signature="8129:8305" ph="..." />
-            <marker date="1523605081000" expanded="false" signature="8185:8192" ph="»" />
-            <marker date="1523605081000" expanded="true" signature="8568:8714" ph="..." />
-            <marker date="1523605081000" expanded="false" signature="8624:8631" ph="»" />
+            <marker date="1523712638000" expanded="true" signature="7023:7790" ph="..." />
+            <marker date="1523712638000" expanded="true" signature="7023:8816" ph="..." />
+            <marker date="1523712638000" expanded="true" signature="7023:8835" ph="..." />
+            <marker date="1523712638000" expanded="true" signature="7023:8852" ph="..." />
+            <marker date="1523712638000" expanded="true" signature="7023:8867" ph="..." />
+            <marker date="1523712638000" expanded="true" signature="7084:7228" ph="..." />
+            <marker date="1523712638000" expanded="false" signature="7139:7146" ph="»" />
+            <marker date="1523712638000" expanded="true" signature="7491:7722" ph="..." />
+            <marker date="1523712638000" expanded="false" signature="7546:7553" ph="»" />
+            <marker date="1523712638000" expanded="true" signature="7933:8759" ph="..." />
+            <marker date="1523712638000" expanded="true" signature="8129:8305" ph="..." />
+            <marker date="1523712638000" expanded="false" signature="8185:8192" ph="»" />
+            <marker date="1523712638000" expanded="true" signature="8568:8714" ph="..." />
+            <marker date="1523712638000" expanded="false" signature="8624:8631" ph="»" />
           </folding>
         </state>
       </provider>
@@ -978,10 +959,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="41" column="2" lean-forward="true" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        <state relative-caret-position="259">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding />
         </state>
       </provider>
