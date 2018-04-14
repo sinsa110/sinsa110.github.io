@@ -25,7 +25,8 @@ permalink: /about_me/
 
 ## 竞赛经历
 ------
-竞赛名称|参赛时间|成绩|备注
+
+竞赛名称|参赛时间|成绩|备注
 |---|:---:|---|---|
 “高教社”杯全国大学生数学建模竞赛 |2010 年 9 月 |全国本科组“二等奖”<br>安徽省赛区本科组“一等奖” |
 “互动出版社”杯全国大学生数学建模网络挑战赛 |2011 年 5 月 |全国本科组“三等奖” |队长 
@@ -44,6 +45,10 @@ permalink: /about_me/
 校团委办公室副主任（挂职）, 院研究生会副主席, 班级团支书
 
 ## 交流方式
-------
 
-见 [打赏页面](https://sinsa110.github.io/donate/)
+微博（左）或 脉脉（右）
+
+<img src="/styles/images/weibo.png" width = "150" height = "150" alt="微博二维码"/>
+&nbsp;&nbsp;
+<img src="/styles/images/maimai.jpeg" width = "150" height = "150" alt="脉脉二维码"/>
+

@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/maimai.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/images/maimai.jpeg" afterPath="$PROJECT_DIR$/styles/images/maimai.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" afterPath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/14/goodbye-to-my-2017/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/14/goodbye-to-my-2017/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/09/Python3.x和Python2.x的主要区别/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/09/Python3.x和Python2.x的主要区别/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about_me/index.html" afterPath="$PROJECT_DIR$/_site/about_me/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books/index.html" afterPath="$PROJECT_DIR$/_site/books/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/index.html" afterPath="$PROJECT_DIR$/_site/donate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/method/index.html" afterPath="$PROJECT_DIR$/_site/donate/method/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="$PROJECT_DIR$/_site/reference/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/index.html" afterPath="$PROJECT_DIR$/_site/tag/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_me.md" afterPath="$PROJECT_DIR$/about_me.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donate/index.md" afterPath="$PROJECT_DIR$/donate/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,16 +59,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pages_list" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/LessOrMore/pages_list">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="books.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/books.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/donate/index.md">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_me.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_me.md">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+              <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -174,7 +163,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/lefttree.html" />
         <option value="$PROJECT_DIR$/_posts/2016-08-27-how-to-use-this-jekyll-theme.md" />
-        <option value="$PROJECT_DIR$/about_me.md" />
         <option value="$PROJECT_DIR$/donate/method/index.md" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/books.md" />
@@ -183,6 +171,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/donate/index.md" />
+        <option value="$PROJECT_DIR$/about_me.md" />
       </list>
     </option>
   </component>
@@ -599,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523713046795</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ADD content">
+      <created>1523717966777</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1523717966777</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -854,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_me.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/donate/method/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -888,20 +877,20 @@
         <state relative-caret-position="4738">
           <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding>
-            <marker date="1523717900000" expanded="true" signature="7023:7790" ph="..." />
-            <marker date="1523717900000" expanded="true" signature="7023:8816" ph="..." />
-            <marker date="1523717900000" expanded="true" signature="7023:8835" ph="..." />
-            <marker date="1523717900000" expanded="true" signature="7023:8852" ph="..." />
-            <marker date="1523717900000" expanded="true" signature="7023:8867" ph="..." />
-            <marker date="1523717900000" expanded="true" signature="7084:7228" ph="..." />
-            <marker date="1523717900000" expanded="false" signature="7139:7146" ph="»" />
-            <marker date="1523717900000" expanded="true" signature="7491:7722" ph="..." />
-            <marker date="1523717900000" expanded="false" signature="7546:7553" ph="»" />
-            <marker date="1523717900000" expanded="true" signature="7933:8759" ph="..." />
-            <marker date="1523717900000" expanded="true" signature="8129:8305" ph="..." />
-            <marker date="1523717900000" expanded="false" signature="8185:8192" ph="»" />
-            <marker date="1523717900000" expanded="true" signature="8568:8714" ph="..." />
-            <marker date="1523717900000" expanded="false" signature="8624:8631" ph="»" />
+            <marker date="1523718813000" expanded="true" signature="7023:7790" ph="..." />
+            <marker date="1523718813000" expanded="true" signature="7023:8816" ph="..." />
+            <marker date="1523718813000" expanded="true" signature="7023:8835" ph="..." />
+            <marker date="1523718813000" expanded="true" signature="7023:8852" ph="..." />
+            <marker date="1523718813000" expanded="true" signature="7023:8867" ph="..." />
+            <marker date="1523718813000" expanded="true" signature="7084:7228" ph="..." />
+            <marker date="1523718813000" expanded="false" signature="7139:7146" ph="»" />
+            <marker date="1523718813000" expanded="true" signature="7491:7722" ph="..." />
+            <marker date="1523718813000" expanded="false" signature="7546:7553" ph="»" />
+            <marker date="1523718813000" expanded="true" signature="7933:8759" ph="..." />
+            <marker date="1523718813000" expanded="true" signature="8129:8305" ph="..." />
+            <marker date="1523718813000" expanded="false" signature="8185:8192" ph="»" />
+            <marker date="1523718813000" expanded="true" signature="8568:8714" ph="..." />
+            <marker date="1523718813000" expanded="false" signature="8624:8631" ph="»" />
           </folding>
         </state>
       </provider>
@@ -1004,8 +993,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/donate/index.md">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_me.md">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
           <folding />
         </state>
       </provider>

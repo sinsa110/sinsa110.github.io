@@ -29,10 +29,10 @@ date:   2017-12-31 +0800
 <hr>
 您可以选择手机支付宝（左）或微信（右）扫一扫
 
-<img src="/styles/images/zhifubao.png" width = "300" height = "300" alt="支付宝二维码付款给 sinsa"/>
-<img src="/styles/images/weixin.png" width = "300" height = "300" alt="微信二维码付款给sinsa"/>
+<img src="/styles/images/zhifubao.png" width = "200" height = "200" alt="支付宝二维码付款给 sinsa"/>
+&nbsp;&nbsp;
+<img src="/styles/images/weixin.png" width = "200" height = "200" alt="微信二维码付款给sinsa"/>
 
-<br>
 <br>
 
 联系方式：`新浪微博或脉脉扫一扫`
@@ -41,8 +41,9 @@ date:   2017-12-31 +0800
 <hr>
 您可以选择手机微博（左）或脉脉（右）扫一扫
 
-<img src="/styles/images/weibo.png" width = "300" height = "300" alt="微博二维码"/>
-<img src="/styles/images/maimai.jpeg" width = "300" height = "300" alt="脉脉二维码"/>
+<img src="/styles/images/weibo.png" width = "200" height = "200" alt="微博二维码"/>
+&nbsp;&nbsp;
+<img src="/styles/images/maimai.jpeg" width = "200" height = "200" alt="脉脉二维码"/>
 
 <br>
 <br>
