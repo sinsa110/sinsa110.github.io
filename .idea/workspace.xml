@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/img/cb-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/img/cb-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/styles/images/maimai.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/img/cb-close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/img/cb-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/cb-footer-add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/cb-search.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/css/cb-search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/js/bootstrap3-typeahead.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/search/js/cb-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/cb-footer-add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/cb-search.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/css/cb-search.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/js/bootstrap3-typeahead.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/js/cb-search.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" />
@@ -34,7 +18,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="$PROJECT_DIR$/_site/reference/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/search/cb-footer-add.html" afterPath="$PROJECT_DIR$/_site/search/cb-footer-add.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/index.html" afterPath="$PROJECT_DIR$/_site/tag/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search/cb-footer-add.html" afterPath="$PROJECT_DIR$/search/cb-footer-add.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-12-20-working-3-years.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md">
+      <file leaf-file-name="cb-search.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/search/cb-search.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+            <state relative-caret-position="257">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
@@ -130,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="598">
+              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -163,6 +149,8 @@
     <findStrings>
       <find>favicon</find>
       <find>revolvermaps</find>
+      <find>cd</find>
+      <find>cb-search</find>
     </findStrings>
   </component>
   <component name="Git.Rebase.Settings">
@@ -203,6 +191,7 @@
         <option value="$PROJECT_DIR$/donate/index.md" />
         <option value="$PROJECT_DIR$/about_me.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/search/cb-footer-add.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
@@ -276,6 +265,24 @@
               <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -604,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523718857553</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ADD content">
+      <created>1523719912036</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1523719912036</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -658,13 +672,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -865,20 +872,20 @@
         <state relative-caret-position="4738">
           <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding>
-            <marker date="1523719852000" expanded="true" signature="7111:7878" ph="..." />
-            <marker date="1523719852000" expanded="true" signature="7111:8904" ph="..." />
-            <marker date="1523719852000" expanded="true" signature="7111:8923" ph="..." />
-            <marker date="1523719852000" expanded="true" signature="7111:8940" ph="..." />
-            <marker date="1523719852000" expanded="true" signature="7111:8955" ph="..." />
-            <marker date="1523719852000" expanded="true" signature="7172:7316" ph="..." />
-            <marker date="1523719852000" expanded="false" signature="7227:7234" ph="»" />
-            <marker date="1523719852000" expanded="true" signature="7579:7810" ph="..." />
-            <marker date="1523719852000" expanded="false" signature="7634:7641" ph="»" />
-            <marker date="1523719852000" expanded="true" signature="8021:8847" ph="..." />
-            <marker date="1523719852000" expanded="true" signature="8217:8393" ph="..." />
-            <marker date="1523719852000" expanded="false" signature="8273:8280" ph="»" />
-            <marker date="1523719852000" expanded="true" signature="8656:8802" ph="..." />
-            <marker date="1523719852000" expanded="false" signature="8712:8719" ph="»" />
+            <marker date="1523843199000" expanded="true" signature="7111:7878" ph="..." />
+            <marker date="1523843199000" expanded="true" signature="7111:8904" ph="..." />
+            <marker date="1523843199000" expanded="true" signature="7111:8923" ph="..." />
+            <marker date="1523843199000" expanded="true" signature="7111:8940" ph="..." />
+            <marker date="1523843199000" expanded="true" signature="7111:8955" ph="..." />
+            <marker date="1523843199000" expanded="true" signature="7172:7316" ph="..." />
+            <marker date="1523843199000" expanded="false" signature="7227:7234" ph="»" />
+            <marker date="1523843199000" expanded="true" signature="7579:7810" ph="..." />
+            <marker date="1523843199000" expanded="false" signature="7634:7641" ph="»" />
+            <marker date="1523843199000" expanded="true" signature="8021:8847" ph="..." />
+            <marker date="1523843199000" expanded="true" signature="8217:8393" ph="..." />
+            <marker date="1523843199000" expanded="false" signature="8273:8280" ph="»" />
+            <marker date="1523843199000" expanded="true" signature="8656:8802" ph="..." />
+            <marker date="1523843199000" expanded="false" signature="8712:8719" ph="»" />
           </folding>
         </state>
       </provider>
@@ -927,14 +934,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="8" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-684">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -995,14 +994,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="598">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/cb-search.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,11 +1028,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="257">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
