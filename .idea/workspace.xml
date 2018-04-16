@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" afterPath="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" />
@@ -13,10 +12,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about_me/index.html" afterPath="$PROJECT_DIR$/_site/about_me/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books/index.html" afterPath="$PROJECT_DIR$/_site/books/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/categories/index.html" afterPath="$PROJECT_DIR$/_site/categories/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/index.html" afterPath="$PROJECT_DIR$/_site/donate/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/method/index.html" afterPath="$PROJECT_DIR$/_site/donate/method/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="$PROJECT_DIR$/_site/reference/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/index.html" afterPath="$PROJECT_DIR$/_site/tag/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-04-09-Python3.x和Python2.x的主要区别.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-04-09-Python3.x和Python2.x的主要区别.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="309">
@@ -112,11 +114,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="121">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -185,11 +187,11 @@
         <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
         <option value="$PROJECT_DIR$/donate/index.md" />
         <option value="$PROJECT_DIR$/about_me.md" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/search/cb-footer-add.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
       </list>
     </option>
   </component>
@@ -629,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523845823244</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="delete comments">
+      <created>1523845994847</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1523845994847</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -878,20 +887,20 @@
         <state relative-caret-position="4738">
           <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding>
-            <marker date="1523845919000" expanded="true" signature="7111:7878" ph="..." />
-            <marker date="1523845919000" expanded="true" signature="7111:8904" ph="..." />
-            <marker date="1523845919000" expanded="true" signature="7111:8923" ph="..." />
-            <marker date="1523845919000" expanded="true" signature="7111:8940" ph="..." />
-            <marker date="1523845919000" expanded="true" signature="7111:8955" ph="..." />
-            <marker date="1523845919000" expanded="true" signature="7172:7316" ph="..." />
-            <marker date="1523845919000" expanded="false" signature="7227:7234" ph="»" />
-            <marker date="1523845919000" expanded="true" signature="7579:7810" ph="..." />
-            <marker date="1523845919000" expanded="false" signature="7634:7641" ph="»" />
-            <marker date="1523845919000" expanded="true" signature="8021:8847" ph="..." />
-            <marker date="1523845919000" expanded="true" signature="8217:8393" ph="..." />
-            <marker date="1523845919000" expanded="false" signature="8273:8280" ph="»" />
-            <marker date="1523845919000" expanded="true" signature="8656:8802" ph="..." />
-            <marker date="1523845919000" expanded="false" signature="8712:8719" ph="»" />
+            <marker date="1523846132000" expanded="true" signature="7023:7790" ph="..." />
+            <marker date="1523846132000" expanded="true" signature="7023:8816" ph="..." />
+            <marker date="1523846132000" expanded="true" signature="7023:8835" ph="..." />
+            <marker date="1523846132000" expanded="true" signature="7023:8852" ph="..." />
+            <marker date="1523846132000" expanded="true" signature="7023:8867" ph="..." />
+            <marker date="1523846132000" expanded="true" signature="7084:7228" ph="..." />
+            <marker date="1523846132000" expanded="false" signature="7139:7146" ph="»" />
+            <marker date="1523846132000" expanded="true" signature="7491:7722" ph="..." />
+            <marker date="1523846132000" expanded="false" signature="7546:7553" ph="»" />
+            <marker date="1523846132000" expanded="true" signature="7933:8759" ph="..." />
+            <marker date="1523846132000" expanded="true" signature="8129:8305" ph="..." />
+            <marker date="1523846132000" expanded="false" signature="8185:8192" ph="»" />
+            <marker date="1523846132000" expanded="true" signature="8568:8714" ph="..." />
+            <marker date="1523846132000" expanded="false" signature="8624:8631" ph="»" />
           </folding>
         </state>
       </provider>
@@ -992,14 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tag/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-684">
@@ -1037,6 +1038,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1045,10 +1054,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        <state relative-caret-position="121">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
