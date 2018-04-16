@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" afterPath="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" afterPath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tag/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-684">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cb-search.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search/cb-search.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-04-09-Python3.x和Python2.x的主要区别.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-04-09-Python3.x和Python2.x的主要区别.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+            <state relative-caret-position="263">
+              <caret line="316" column="4" lean-forward="true" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -99,11 +91,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/books/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-2523">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-04-字典树 Trie 结构及其 python 实现.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-13-pandas dataframe 中的 explode 函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,14 +171,15 @@
         <option value="$PROJECT_DIR$/books.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-14-goodbye-to-my-2017.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
         <option value="$PROJECT_DIR$/donate/index.md" />
         <option value="$PROJECT_DIR$/about_me.md" />
         <option value="$PROJECT_DIR$/search/cb-footer-add.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_site/books/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" />
       </list>
     </option>
   </component>
@@ -661,7 +674,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523846209860</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="change header color">
+      <created>1523846346296</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1523846346296</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -889,20 +909,20 @@
         <state relative-caret-position="4738">
           <caret line="266" column="0" lean-forward="false" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="0" />
           <folding>
-            <marker date="1523846221000" expanded="true" signature="7023:7790" ph="..." />
-            <marker date="1523846221000" expanded="true" signature="7023:8816" ph="..." />
-            <marker date="1523846221000" expanded="true" signature="7023:8835" ph="..." />
-            <marker date="1523846221000" expanded="true" signature="7023:8852" ph="..." />
-            <marker date="1523846221000" expanded="true" signature="7023:8867" ph="..." />
-            <marker date="1523846221000" expanded="true" signature="7084:7228" ph="..." />
-            <marker date="1523846221000" expanded="false" signature="7139:7146" ph="»" />
-            <marker date="1523846221000" expanded="true" signature="7491:7722" ph="..." />
-            <marker date="1523846221000" expanded="false" signature="7546:7553" ph="»" />
-            <marker date="1523846221000" expanded="true" signature="7933:8759" ph="..." />
-            <marker date="1523846221000" expanded="true" signature="8129:8305" ph="..." />
-            <marker date="1523846221000" expanded="false" signature="8185:8192" ph="»" />
-            <marker date="1523846221000" expanded="true" signature="8568:8714" ph="..." />
-            <marker date="1523846221000" expanded="false" signature="8624:8631" ph="»" />
+            <marker date="1523846359000" expanded="true" signature="7023:7790" ph="..." />
+            <marker date="1523846359000" expanded="true" signature="7023:8816" ph="..." />
+            <marker date="1523846359000" expanded="true" signature="7023:8835" ph="..." />
+            <marker date="1523846359000" expanded="true" signature="7023:8852" ph="..." />
+            <marker date="1523846359000" expanded="true" signature="7023:8867" ph="..." />
+            <marker date="1523846359000" expanded="true" signature="7084:7228" ph="..." />
+            <marker date="1523846359000" expanded="false" signature="7139:7146" ph="»" />
+            <marker date="1523846359000" expanded="true" signature="7491:7722" ph="..." />
+            <marker date="1523846359000" expanded="false" signature="7546:7553" ph="»" />
+            <marker date="1523846359000" expanded="true" signature="7933:8759" ph="..." />
+            <marker date="1523846359000" expanded="true" signature="8129:8305" ph="..." />
+            <marker date="1523846359000" expanded="false" signature="8185:8192" ph="»" />
+            <marker date="1523846359000" expanded="true" signature="8568:8714" ph="..." />
+            <marker date="1523846359000" expanded="false" signature="8624:8631" ph="»" />
           </folding>
         </state>
       </provider>
@@ -971,22 +991,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/donate/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -1040,14 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1084,6 +1080,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2523">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="316" column="4" lean-forward="true" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
           <folding />
         </state>
       </provider>
