@@ -26,6 +26,6 @@ markdown: kramdown
 
 #gitment
 comment_gitment_repo: sinsa110.github.io
-comment_gitment_clientId: 70fc7f558f7d9f8d8ff1
-comment_gitment_clientSecret: bbc9b024ad2ba7435d60d4eb421399dd095c34f9
+comment_gitment_clientId: b8a476625bf6278e5cec
+comment_gitment_clientSecret: 7e9006e9100e61dd5686d811b653cf640c3d5976
 
