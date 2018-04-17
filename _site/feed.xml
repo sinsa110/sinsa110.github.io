@@ -5,9 +5,9 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Apr 2018 16:39:23 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Apr 2018 16:39:23 +0800</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <pubDate>Tue, 17 Apr 2018 17:59:06 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Apr 2018 17:59:06 +0800</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>pandas dataframe 中的 explode 函数</title>
@@ -645,7 +645,7 @@ layout: post
 &lt;span class=&quot;c&quot;&gt;#标题配置&lt;/span&gt;
 title:  标题
 &lt;span class=&quot;c&quot;&gt;#时间配置&lt;/span&gt;
-date:   2017-12-21 01:08:00 +0800
+&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;:   2017-12-21 01:08:00 +0800
 &lt;span class=&quot;c&quot;&gt;#大类配置&lt;/span&gt;
 categories: document
 &lt;span class=&quot;c&quot;&gt;#小类配置&lt;/span&gt;
