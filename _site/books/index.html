@@ -110,10 +110,10 @@
     
 
     <div class="container docs-container">
-  <div class="row">
-    <div class="col-md-3">
-      <div class="sidebar hidden-print" role="complementary">
-        <div id="navigation">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="sidebar hidden-print" role="complementary">
+                <div id="navigation">
   <h1>目录</h1>
   <ul class="nav sidenav">
   </ul>
@@ -122,22 +122,23 @@
   </div>
 </div>
 
- 
-      </div>
-    </div>
-    <div class="col-md-9" role="main">
-      <div class="panel docs-content">
-        <div class="wrapper">
-            <header class="post-header">
-              <h1 class="post-title">我的书单</h1>
-              <!--
-                <p class="post-meta">Dec 21, 2017</p>
-              -->
-              <div class="meta">Posted on <span class="postdate">Dec 21, 2017</span> By <a target="_blank" href="http://localhost:4000">Sinsa SI</a></div>
-              <br />
-            </header>
-            <article class="post-content">
-              <ul id="markdown-toc">
+
+            </div>
+        </div>
+        <div class="col-md-9" role="main">
+            <div class="panel docs-content">
+                <div class="wrapper">
+                    <header class="post-header">
+                        <h1 class="post-title">我的书单</h1>
+                        <!--
+                          <p class="post-meta">Dec 21, 2017</p>
+                        -->
+                        <div class="meta">Posted on <span class="postdate">Dec 21, 2017</span> By
+                            <a target="_blank" href="http://localhost:4000">Sinsa SI</a></div>
+                        <br/>
+                    </header>
+                    <article class="post-content">
+                        <ul id="markdown-toc">
   <li><a href="#BOOK2017" id="markdown-toc-BOOK2017">2017 书单</a></li>
   <li><a href="#BOOK2016" id="markdown-toc-BOOK2016">2016 书单</a></li>
 </ul>
@@ -166,11 +167,39 @@
   <li>《算法(第四版)》</li>
 </ul>
 
-            </article>
+                    </article>
+
+                </div>
+            </div>
         </div>
-      </div>
+        <div class="post-recent">
+    <div class="pre">
+        
     </div>
-  </div>
+    <div class="nex">
+
+        
+    </div>
+</div>
+
+
+        <h2 id="comments">Comments</h2>
+        <div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    var gitment = new Gitment({
+        owner: 'sinsa110',
+        repo: '',
+        oauth: {
+            client_id: '',
+            client_secret: '',
+        },
+    });
+    gitment.render('gitmentContainer')
+</script>
+
+    </div>
 </div>
 
 
