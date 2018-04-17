@@ -3,8 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/comments.html" afterPath="$PROJECT_DIR$/_includes/comments.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md" afterPath="$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" afterPath="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/how-to-use-this-jekyll-theme/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" afterPath="$PROJECT_DIR$/_site/2017/12/21/working-3-years/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/04/字典树-Trie-结构及其-python-实现/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/01/14/goodbye-to-my-2017/index.html" afterPath="$PROJECT_DIR$/_site/2018/01/14/goodbye-to-my-2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/09/Python3.x和Python2.x的主要区别/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/09/Python3.x和Python2.x的主要区别/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" afterPath="$PROJECT_DIR$/_site/2018/04/13/pandas-dataframe-中的-explode-函数/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about_me/index.html" afterPath="$PROJECT_DIR$/_site/about_me/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/books/index.html" afterPath="$PROJECT_DIR$/_site/books/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/index.html" afterPath="$PROJECT_DIR$/_site/donate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/donate/method/index.html" afterPath="$PROJECT_DIR$/_site/donate/method/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="$PROJECT_DIR$/_site/reference/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +47,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comments.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-04-09-Python3.x和Python2.x的主要区别.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1621">
+              <caret line="316" column="4" lean-forward="false" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-14-goodbye-to-my-2017.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-14-goodbye-to-my-2017.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-183">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/comments.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
@@ -58,8 +90,28 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="511">
+              <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-04-字典树 Trie 结构及其 python 实现.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="59" column="10" lean-forward="false" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-13-pandas dataframe 中的 explode 函数.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -129,7 +181,6 @@
         <option value="$PROJECT_DIR$/about_me.md" />
         <option value="$PROJECT_DIR$/search/cb-footer-add.html" />
         <option value="$PROJECT_DIR$/_site/books/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
         <option value="$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
@@ -140,6 +191,8 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/comments.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md" />
       </list>
     </option>
   </component>
@@ -616,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523938016724</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="add comments">
+      <created>1523942925329</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1523942925329</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -760,13 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-14-goodbye-to-my-2017.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -808,30 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="316" column="4" lean-forward="false" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1010,14 +1039,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
@@ -1038,6 +1059,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-字典树 Trie 结构及其 python 实现.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="59" column="10" lean-forward="false" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-13-pandas dataframe 中的 explode 函数.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-04-09-Python3.x和Python2.x的主要区别.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1621">
+          <caret line="316" column="4" lean-forward="false" selection-start-line="316" selection-start-column="4" selection-end-line="316" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-14-goodbye-to-my-2017.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>

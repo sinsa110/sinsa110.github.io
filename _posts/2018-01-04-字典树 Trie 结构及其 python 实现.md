@@ -53,7 +53,7 @@ Trie，又称前缀树或字典树，是一种有序树状的数据结构，用�
 
 用嵌套字典来实现树结构
 
-``` python
+```python
 # !/usr/bin/env python
 # -*- coding:utf-8 -*-
 # create on 18/1/4

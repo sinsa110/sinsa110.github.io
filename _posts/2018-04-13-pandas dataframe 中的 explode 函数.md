@@ -16,7 +16,7 @@ tag: [pandas,dataframe,explode]
 
 ## Code 
 
-```
+``` python
 # !/usr/bin/env python
 # -*- coding:utf-8 -*-
 # create on 18/4/13
