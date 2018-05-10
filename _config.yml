@@ -37,3 +37,4 @@ plugins:
   - jekyll-coffeescript
   - jekyll-assets
   - jekyll-admin
+  - jekyll-mentions
