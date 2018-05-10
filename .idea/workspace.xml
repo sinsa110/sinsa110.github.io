@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/demo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/demo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/demo2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/guifan1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/guifan2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/guifan3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/shili.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/shili1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/shili2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/images/post_img/20180510/shili3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-05-10-绘制流程图技巧.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/reference/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/styles/images/jiezishu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reference.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/jiezishu.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,8 +66,8 @@
       <file leaf-file-name="2018-05-10-绘制流程图技巧.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-绘制流程图技巧.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+            <state relative-caret-position="393">
+              <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -715,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523959182882</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="post">
+      <created>1525960128910</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1525960128910</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -766,9 +755,9 @@
     <MESSAGE value="change header color" />
     <MESSAGE value="DEBUG dropdown change its size when click" />
     <MESSAGE value="add comments" />
-    <MESSAGE value="post" />
     <MESSAGE value="add jekyll-admin" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jekyll-admin" />
+    <MESSAGE value="post" />
+    <option name="LAST_COMMIT_MESSAGE" value="post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -808,6 +797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -999,6 +989,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,8 +1064,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-10-绘制流程图技巧.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="57" column="14" lean-forward="true" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+        <state relative-caret-position="393">
+          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding />
         </state>
       </provider>
