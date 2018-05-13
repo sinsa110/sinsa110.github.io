@@ -5,9 +5,189 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Apr 2018 17:46:07 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 17:46:07 +0800</lastBuildDate>
+    <pubDate>Sun, 13 May 2018 11:32:27 +0800</pubDate>
+    <lastBuildDate>Sun, 13 May 2018 11:32:27 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>　[ 高效能系列 ] 之绘制流程图基本技巧</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#一什么是流程图-what-&quot; id=&quot;markdown-toc-一什么是流程图-what-&quot;&gt;一、什么是流程图？（ what ）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#二为什么要使用流程图--why-&quot; id=&quot;markdown-toc-二为什么要使用流程图--why-&quot;&gt;二、为什么要使用流程图？ （ why ）&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#作用&quot; id=&quot;markdown-toc-作用&quot;&gt;作用&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#优点&quot; id=&quot;markdown-toc-优点&quot;&gt;优点&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#三怎样绘制流程图--how-&quot; id=&quot;markdown-toc-三怎样绘制流程图--how-&quot;&gt;三、怎样绘制流程图？ （ how ）&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#符号规范&quot; id=&quot;markdown-toc-符号规范&quot;&gt;符号规范&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#画流程图步骤&quot; id=&quot;markdown-toc-画流程图步骤&quot;&gt;画流程图步骤&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#基本要求&quot; id=&quot;markdown-toc-基本要求&quot;&gt;基本要求&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#工具推荐&quot; id=&quot;markdown-toc-工具推荐&quot;&gt;工具推荐&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#示例&quot; id=&quot;markdown-toc-示例&quot;&gt;示例&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#示例一-简单算法流程图&quot; id=&quot;markdown-toc-示例一-简单算法流程图&quot;&gt;示例一 简单算法流程图&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#示例二-人事工作流程图&quot; id=&quot;markdown-toc-示例二-人事工作流程图&quot;&gt;示例二 人事工作流程图&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#四使用流程图能干什么-what-&quot; id=&quot;markdown-toc-四使用流程图能干什么-what-&quot;&gt;四、使用流程图能干什么？（ what ）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;本文将按照黄金圈法则介绍绘制流程图的技巧，即从以下 4 个方面展开介绍：&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;什么是流程图？（ what ）&lt;/li&gt;
+    &lt;li&gt;为什么要使用流程图？ （ why ）&lt;/li&gt;
+    &lt;li&gt;怎样绘制流程图？ （ how ）&lt;/li&gt;
+    &lt;li&gt;使用流程图能干什么？（ what ）&lt;/li&gt;
+  &lt;/ol&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;一什么是流程图-what-&quot;&gt;一、什么是流程图？（ what ）&lt;/h2&gt;
+&lt;p&gt;流程图是展现过程步骤和决策点顺序的图形文档，是将一个过程的步骤用图的形式表示出来的一种图示技术。&lt;/p&gt;
+
+&lt;p&gt;一个好的流程图可以直观地描述整个活动中所有过程的物流、信息流，让人很容易知悉整个过程。&lt;/p&gt;
+
+&lt;p&gt;同时，作为诊断工具，它能够辅助决策制定，让管理者清楚知道，问题可能出现的地方，从而确定出可供选择的行动方案。&lt;/p&gt;
+
+&lt;h2 id=&quot;二为什么要使用流程图--why-&quot;&gt;二、为什么要使用流程图？ （ why ）&lt;/h2&gt;
+&lt;h3 id=&quot;作用&quot;&gt;作用&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;将工作过程的复杂性、有问题的地方、重复部分、多余环节以及可以简化和标准化的地方都显示出来。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;将实际的和想象的过程流程进行比较和对照，以便寻求改进过程的机会。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;使项目小组在过程步骤方面统一意见并检查出对过程进展有重要影响的环节或活动。
+识别可以调查收集额外资料的地方。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;提供了一个直观而通俗地展示复杂过程的工具。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;优点&quot;&gt;优点&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;工作更换人手，按图索骥，容易上手。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;采用简单规范的符号，画法简单&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;便于描述，容易理解&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;结构清晰，逻辑性强&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;三怎样绘制流程图--how-&quot;&gt;三、怎样绘制流程图？ （ how ）&lt;/h2&gt;
+&lt;h3 id=&quot;符号规范&quot;&gt;符号规范&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/styles/images/post_img/20180510/guifan2.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/styles/images/post_img/20180510/guifan1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;画流程图步骤&quot;&gt;画流程图步骤&lt;/h3&gt;
+&lt;p&gt;分析问题，确定问题解决需要哪几步，中间过程都涉及哪些元素（动作输入、动作环节、输出结果等）。&lt;/p&gt;
+
+&lt;h3 id=&quot;基本要求&quot;&gt;基本要求&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;流程图符号绘制顺序，应从上至下，从左到右。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;流程图须以单一入口，单一出口特征绘制。
+&lt;img src=&quot;/styles/images/post_img/20180510/shili1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;路径符号应避免相互交叉。
+&lt;img src=&quot;/styles/images/post_img/20180510/shili2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;一个流程应该只有一个起点，有时候多个流程图融合在一起，可以有多个起点。这里注意结束符号不限。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;需要反馈的流程要形成闭环。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;同一路径符号的指示箭头应只有一个。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;选择结构及重复结构的选择条件或决策条件，文字叙述应简明清晰，路径应标识“是”及“否”或其他相对性文字指示说明。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;相同流程图符号应尽量大小一致。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;流程图中若参考到其他已定义流程，可使用已定义处理程序符号，不必重复绘制。
+&lt;img src=&quot;/styles/images/post_img/20180510/shili3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;工具推荐&quot;&gt;工具推荐&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;OmniGraffle&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gliffy Diagrams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ProcessOn.com&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Microsoft Visio&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;TikZ ( LaTeX 党 )&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;亿图 Edraw&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;迅捷流程图制作软件&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;SmartDraw&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;…&lt;/p&gt;
+    &lt;h3 id=&quot;示例&quot;&gt;示例&lt;/h3&gt;
+    &lt;h4 id=&quot;示例一-简单算法流程图&quot;&gt;示例一 简单算法流程图&lt;/h4&gt;
+    &lt;p&gt;&lt;img src=&quot;/styles/images/post_img/20180510/demo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;示例二-人事工作流程图&quot;&gt;示例二 人事工作流程图&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/styles/images/post_img/20180510/demo2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;四使用流程图能干什么-what-&quot;&gt;四、使用流程图能干什么？（ what ）&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;系统结构设计&lt;/li&gt;
+  &lt;li&gt;产品设计&lt;/li&gt;
+  &lt;li&gt;业务需求流程&lt;/li&gt;
+  &lt;li&gt;研发／开发过程引导&lt;/li&gt;
+  &lt;li&gt;… …&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 10 May 2018 01:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/05/10/%E9%AB%98%E6%95%88%E8%83%BD%E7%B3%BB%E5%88%97%E4%B9%8B%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%9F%BA%E6%9C%AC%E6%8A%80%E5%B7%A7/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/10/%E9%AB%98%E6%95%88%E8%83%BD%E7%B3%BB%E5%88%97%E4%B9%8B%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%9F%BA%E6%9C%AC%E6%8A%80%E5%B7%A7/</guid>
+        
+        <category>流程图</category>
+        
+        
+        <category>高效能系列</category>
+        
+      </item>
     
       <item>
         <title>pandas dataframe 中的 explode 函数</title>
@@ -61,7 +241,7 @@
         <category>explode</category>
         
         
-        <category>python</category>
+        <category>pyCoder之路</category>
         
       </item>
     
@@ -376,10 +556,10 @@ __delitem__调用
         <link>http://localhost:4000/2018/04/09/Python3.x%E5%92%8CPython2.x%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/04/09/Python3.x%E5%92%8CPython2.x%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB/</guid>
         
-        <category>python</category>
+        <category>python2 python3</category>
         
         
-        <category>Tools</category>
+        <category>pyCoder之路</category>
         
       </item>
     
@@ -429,12 +609,10 @@ __delitem__调用
         <link>http://localhost:4000/2018/01/14/goodbye-to-my-2017/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/14/goodbye-to-my-2017/</guid>
         
-        <category>总结</category>
+        <category>2017</category>
         
         
-        <category>time</category>
-        
-        <category>life</category>
+        <category>个人反思录</category>
         
       </item>
     
@@ -572,10 +750,10 @@ __delitem__调用
         <link>http://localhost:4000/2018/01/04/%E5%AD%97%E5%85%B8%E6%A0%91-Trie-%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6-python-%E5%AE%9E%E7%8E%B0/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/04/%E5%AD%97%E5%85%B8%E6%A0%91-Trie-%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6-python-%E5%AE%9E%E7%8E%B0/</guid>
         
-        <category>Trie 树</category>
+        <category>Trie树</category>
         
         
-        <category>python</category>
+        <category>pyCoder之路</category>
         
       </item>
     
@@ -672,10 +850,10 @@ tag: 教程
         <link>http://localhost:4000/2017/12/21/how-to-use-this-jekyll-theme/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/12/21/how-to-use-this-jekyll-theme/</guid>
         
-        <category>教程</category>
+        <category>教程 Jekyll LessOrMore</category>
         
         
-        <category>document</category>
+        <category>其他文档集</category>
         
       </item>
     
@@ -696,7 +874,7 @@ tag: 教程
         <category>随想</category>
         
         
-        <category>document</category>
+        <category>其他文档集</category>
         
       </item>
     

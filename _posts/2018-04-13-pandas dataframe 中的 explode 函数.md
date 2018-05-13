@@ -2,7 +2,7 @@
 layout: post
 title:  pandas dataframe 中的 explode 函数
 date:   2018-04-13 01:08:00 +0800
-categories: python 
+categories: pyCoder之路
 tag: [pandas,dataframe,explode]
 ---
 * content

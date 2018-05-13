@@ -74,11 +74,11 @@
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">关于<b class="caret"></b></a>
-          <ul class="dropdown-menu0" >
+          <ul class="dropdown-menu0">
             <li><a rel="nofollow" href="/about_me">关于作者</a></li>
             <li><a rel="nofollow" href="/books">我的书单</a></li>
             <li><a href="/feed.xml">RSS订阅</a></li>
-            <li class="divider"></li>
+            <li class="divider">
             <li><a rel="nofollow" target="_blank" href="https://github.com/sinsa110/sinsa110.github.io">本项目</a></li>
           </ul>
         </li>
@@ -102,8 +102,8 @@
 <div class="banner">
   <div class="container">
   	
-    	<a href="/categories/#Tools-ref">Tools</a>	/
-    	<a href="/tag/#python-ref">python</a>
+    	<a href="/categories/#pyCoder%E4%B9%8B%E8%B7%AF-ref">pyCoder之路</a>	/
+    	<a href="/tag/#python2%20python3-ref">python2 python3</a>
     
   </div>
 </div>
@@ -135,21 +135,22 @@
                           <p class="post-meta">Apr 9, 2018</p>
                         -->
                         <div class="meta">Posted on <span class="postdate">Apr 09, 2018</span> By
-                            <a target="_blank" href="http://localhost:4000">Sinsa SI</a></div>
-                        <br/>
+                            <a target="_blank" href="http://localhost:4000">Sinsa SI</a>
+</div>
+                        <br>
                     </header>
                     <article class="post-content">
                         <ul id="markdown-toc">
-  <li><a href="#1性能" id="markdown-toc-1性能">1.性能</a></li>
-  <li><a href="#2编码" id="markdown-toc-2编码">2.编码</a></li>
-  <li><a href="#3-语法" id="markdown-toc-3-语法">3. 语法</a></li>
-  <li><a href="#4-字符串和字节串" id="markdown-toc-4-字符串和字节串">4. 字符串和字节串</a></li>
-  <li><a href="#5数据类型" id="markdown-toc-5数据类型">5.数据类型</a></li>
-  <li><a href="#6面向对象" id="markdown-toc-6面向对象">6.面向对象</a></li>
-  <li><a href="#7异常" id="markdown-toc-7异常">7.异常</a></li>
-  <li><a href="#8模块变动" id="markdown-toc-8模块变动">8.模块变动</a></li>
-  <li><a href="#9其它" id="markdown-toc-9其它">9.其它</a></li>
-  <li><a href="#参考" id="markdown-toc-参考">参考</a></li>
+  <li><a href="#1%E6%80%A7%E8%83%BD" id="markdown-toc-1性能">1.性能</a></li>
+  <li><a href="#2%E7%BC%96%E7%A0%81" id="markdown-toc-2编码">2.编码</a></li>
+  <li><a href="#3-%E8%AF%AD%E6%B3%95" id="markdown-toc-3-语法">3. 语法</a></li>
+  <li><a href="#4-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%AD%97%E8%8A%82%E4%B8%B2" id="markdown-toc-4-字符串和字节串">4. 字符串和字节串</a></li>
+  <li><a href="#5%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B" id="markdown-toc-5数据类型">5.数据类型</a></li>
+  <li><a href="#6%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1" id="markdown-toc-6面向对象">6.面向对象</a></li>
+  <li><a href="#7%E5%BC%82%E5%B8%B8" id="markdown-toc-7异常">7.异常</a></li>
+  <li><a href="#8%E6%A8%A1%E5%9D%97%E5%8F%98%E5%8A%A8" id="markdown-toc-8模块变动">8.模块变动</a></li>
+  <li><a href="#9%E5%85%B6%E5%AE%83" id="markdown-toc-9其它">9.其它</a></li>
+  <li><a href="#%E5%8F%82%E8%80%83" id="markdown-toc-参考">参考</a></li>
 </ul>
 
 <h2 id="1性能">1.性能</h2>
@@ -351,7 +352,7 @@ a[0] = 25    # 可以用赋值语句更改其元素，但所赋的值必须在 0
 
 <p>3）迭代器的 next() 方法改名为__next__()，并增加内置函数 next()，用以调用迭代器的 __next__() 方法</p>
 
-<p>4）增加了 @abstractmethod 和 @abstractproperty 两个 decorator，编写抽象方法（属性）更加方便。</p>
+<p>4）增加了 <a href="https://github.com/abstractmethod" class="user-mention">@abstractmethod</a> 和 <a href="https://github.com/abstractproperty" class="user-mention">@abstractproperty</a> 两个 decorator，编写抽象方法（属性）更加方便。</p>
 
 <h2 id="7异常">7.异常</h2>
 
@@ -389,7 +390,7 @@ a[0] = 25    # 可以用赋值语句更改其元素，但所赋的值必须在 0
 
 <p>2）移除了imageop模块</p>
 
-<p>3）移除了 audiodev, Bastion, bsddb185, exceptions, linuxaudiodev, md5, MimeWriter, mimify, popen2,<br />
+<p>3）移除了 audiodev, Bastion, bsddb185, exceptions, linuxaudiodev, md5, MimeWriter, mimify, popen2,<br>
 rexec, sets, sha, stringold, strop, sunaudiodev, timing和xmllib模块</p>
 
 <p>4）移除了bsddb模块(单独发布，可以从http://www.jcea.es/programacion/pybsddb.htm获取)</p>
@@ -490,22 +491,22 @@ __delitem__调用
     
     <footer class="footer" role="contentinfo">
 	<div class="container">
-		<p class="copyright">Copyright &copy; 2014-2018 <a href=""><code>Sinsa SI</code></a>.</p>
+		<p class="copyright">Copyright © 2014-2018 <a href=""><code>Sinsa SI</code></a>.</p>
 		<p>Powered by <a href="http://jekyllrb.com">Jekyll</a>, themed from <a href="http://lesscss.cn/">Less</a>.</p>
 	</div>
 </footer>
 
 <div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
       opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
-	<input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
+	<input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签">
 
 	<div style="position: fixed; top: 16px; right: 16px;">
-		<img src="/search/img/cb-close.png"  id="cb-close-btn"/>
+		<img src="/search/img/cb-close.png" id="cb-close-btn">
 	</div>
 </div>
 
 <div style="position: fixed; right: 16px; bottom: 20px;">
-	<img src="/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
+	<img src="/search/img/cb-search.png" id="cb-search-btn" title="双击ctrl试一下">
 </div>
 
 <link rel="stylesheet" href="/search/css/cb-search.css">

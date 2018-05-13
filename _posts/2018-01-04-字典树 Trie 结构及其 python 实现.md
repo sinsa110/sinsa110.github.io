@@ -2,8 +2,8 @@
 layout: post
 title:  字典树 Trie 结构介绍及其实现
 date:   2018-01-04 01:08:00 +0800
-categories: python
-tag: Trie 树
+categories: pyCoder之路
+tag: Trie树
 ---
 * content
 {:toc}

@@ -2,7 +2,7 @@
 layout: post
 title:  以此博客纪念工作三周年
 date:   2017-12-21 +0800
-categories: document
+categories: 其他文档集
 tag: 随想
 ---
 * content
