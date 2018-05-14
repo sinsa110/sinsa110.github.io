@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 关于作者
-date:   2017-12-21 +0800
-permalink: /about_me/
+layout: post
+date: 2017-12-21 +0800
+permalink: "/about_me/"
 ---
 
 * content
@@ -46,9 +46,8 @@ permalink: /about_me/
 
 ## 交流方式
 
-微博（左）或 脉脉（右）
+微信公众号（左）或 脉脉（右）
 
-<img src="/styles/images/weibo.png" width = "150" height = "150" alt="微博二维码"/>
+<img src="/styles/images/wx_gzh.jpg" width = "150" height = "150" alt="微博二维码"/>
 &nbsp;&nbsp;
 <img src="/styles/images/maimai.jpeg" width = "150" height = "150" alt="脉脉二维码"/>
-

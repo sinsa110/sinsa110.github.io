@@ -5,12 +5,12 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 May 2018 11:32:27 +0800</pubDate>
-    <lastBuildDate>Sun, 13 May 2018 11:32:27 +0800</lastBuildDate>
+    <pubDate>Mon, 14 May 2018 13:54:40 +0800</pubDate>
+    <lastBuildDate>Mon, 14 May 2018 13:54:40 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>　[ 高效能系列 ] 之绘制流程图基本技巧</title>
+        <title>[ 高效能系列 ] 之绘制流程图基本技巧</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#一什么是流程图-what-&quot; id=&quot;markdown-toc-一什么是流程图-what-&quot;&gt;一、什么是流程图？（ what ）&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#二为什么要使用流程图--why-&quot; id=&quot;markdown-toc-二为什么要使用流程图--why-&quot;&gt;二、为什么要使用流程图？ （ why ）&lt;/a&gt;    &lt;ul&gt;
@@ -176,7 +176,6 @@
   &lt;li&gt;研发／开发过程引导&lt;/li&gt;
   &lt;li&gt;… …&lt;/li&gt;
 &lt;/ol&gt;
-
 </description>
         <pubDate>Thu, 10 May 2018 01:08:00 +0800</pubDate>
         <link>http://localhost:4000/2018/05/10/%E9%AB%98%E6%95%88%E8%83%BD%E7%B3%BB%E5%88%97%E4%B9%8B%E7%BB%98%E5%88%B6%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%9F%BA%E6%9C%AC%E6%8A%80%E5%B7%A7/</link>
@@ -556,7 +555,9 @@ __delitem__调用
         <link>http://localhost:4000/2018/04/09/Python3.x%E5%92%8CPython2.x%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/04/09/Python3.x%E5%92%8CPython2.x%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB/</guid>
         
-        <category>python2 python3</category>
+        <category>python2</category>
+        
+        <category>python3</category>
         
         
         <category>pyCoder之路</category>
@@ -850,7 +851,11 @@ tag: 教程
         <link>http://localhost:4000/2017/12/21/how-to-use-this-jekyll-theme/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/12/21/how-to-use-this-jekyll-theme/</guid>
         
-        <category>教程 Jekyll LessOrMore</category>
+        <category>教程</category>
+        
+        <category>Jekyll</category>
+        
+        <category>LessOrMore</category>
         
         
         <category>其他文档集</category>

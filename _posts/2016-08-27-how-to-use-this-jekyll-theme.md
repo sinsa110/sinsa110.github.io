@@ -3,7 +3,7 @@ layout: post
 title:  如何使用 LessOrMore 这个 Jekyll 模版
 date:   2017-12-21 01:08:00 +0800
 categories: 其他文档集
-tag: 教程 Jekyll LessOrMore
+tag: [教程,Jekyll,LessOrMore]
 ---
 
 * content

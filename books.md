@@ -1,12 +1,19 @@
 ---
-layout: post
 title: 我的书单
-date:   2017-12-21 01:08:00 +0800
-permalink: /books/
+layout: post
+date: '2017-12-21 01:08:00 +0800'
+permalink: "/books/"
 ---
 
 * content
 {:toc}
+
+## 2018 书单                             {#BOOK2018}
+------
++ 《跃迁》
++ 《刻意练习》
++ 《如何阅读一本书》
+
 
 ## 2017 书单                             {#BOOK2017}
 -------
