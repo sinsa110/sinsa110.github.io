@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="post">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/demo1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/demo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/demo2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/guifan1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/guifan2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/guifan3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/shili.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/shili1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/shili2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/images/post_img/20180510/shili3.png" afterPath="" />
+    <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-05-10-高效能系列之绘制流程图基本技巧.md" afterPath="$PROJECT_DIR$/_posts/2018-05-10-高效能系列之绘制流程图基本技巧.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -248,17 +237,6 @@
               <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="categories" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -399,13 +377,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513673744763</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update donate motto">
-      <created>1513847968343</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1513847968349</updated>
     </task>
     <task id="LOCAL-00005" summary="update IMAGES">
       <created>1513854689258</created>
@@ -743,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526277317863</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="post">
+      <created>1526480266786</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1526480266786</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -816,6 +794,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
