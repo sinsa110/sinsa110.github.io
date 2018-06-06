@@ -5,9 +5,277 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 May 2018 13:55:35 +0800</pubDate>
-    <lastBuildDate>Mon, 14 May 2018 13:55:35 +0800</lastBuildDate>
+    <pubDate>Wed, 06 Jun 2018 21:58:14 +0800</pubDate>
+    <lastBuildDate>Wed, 06 Jun 2018 21:58:14 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>[ 高效能系列 ] 易读易写的书写语言 Markdown</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#一基本符号&quot; id=&quot;markdown-toc-一基本符号&quot;&gt;一、基本符号&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#1-标题&quot; id=&quot;markdown-toc-1-标题&quot;&gt;1. 标题&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#2-换行&quot; id=&quot;markdown-toc-2-换行&quot;&gt;2. 换行&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#3-分段&quot; id=&quot;markdown-toc-3-分段&quot;&gt;3. 分段&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#4-加粗斜体删除线底纹&quot; id=&quot;markdown-toc-4-加粗斜体删除线底纹&quot;&gt;4. 加粗、斜体、删除线、底纹&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#5-列表&quot; id=&quot;markdown-toc-5-列表&quot;&gt;5. 列表&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#6-引用&quot; id=&quot;markdown-toc-6-引用&quot;&gt;6. 引用&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#7-图片和链接&quot; id=&quot;markdown-toc-7-图片和链接&quot;&gt;7. 图片和链接&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#8-表格&quot; id=&quot;markdown-toc-8-表格&quot;&gt;8. 表格&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#9-脚注&quot; id=&quot;markdown-toc-9-脚注&quot;&gt;9. 脚注&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tips&quot; id=&quot;markdown-toc-tips&quot;&gt;tips&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#1-表格内容填充工具-tables-generator&quot; id=&quot;markdown-toc-1-表格内容填充工具-tables-generator&quot;&gt;1. 表格内容填充工具 Tables Generator&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#参考资料&quot; id=&quot;markdown-toc-参考资料&quot;&gt;参考资料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;上一篇文章介绍了《如何绘制流程图》，在这篇文章，将介绍两个方面内容：&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;介绍文本编辑器 Markdown 基本符号；&lt;/li&gt;
+    &lt;li&gt;一些编辑技巧。&lt;/li&gt;
+  &lt;/ol&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;一基本符号&quot;&gt;一、基本符号&lt;/h2&gt;
+&lt;h3 id=&quot;1-标题&quot;&gt;1. 标题&lt;/h3&gt;
+
+&lt;p&gt;语法：&lt;code class=&quot;highlighter-rouge&quot;&gt;	# + 空格 + 标题内容&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+
+一级标题
+======
+二级标题
+-----
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40984681-0ad3b3e2-6915-11e8-87ae-9bb39299c30b.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-换行&quot;&gt;2. 换行&lt;/h3&gt;
+
+&lt;p&gt;语法：&lt;code class=&quot;highlighter-rouge&quot;&gt;行末加两个空格和一个换行&lt;/code&gt; 或在换行处插入&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;未换行
+的效果
+
+已换行  
+的效果
+
+已换行&amp;lt;br&amp;gt;的效果
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40984823-5949acde-6915-11e8-94a4-101e4884b4b3.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-分段&quot;&gt;3. 分段&lt;/h3&gt;
+
+&lt;p&gt;语法：段落间空一行 或在分段处插入&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;未分段
+的效果
+
+已分段
+
+的效果
+
+已分段&amp;lt;br&amp;gt;&amp;lt;/br&amp;gt;的效果
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40985017-bbfecdf0-6915-11e8-8499-3ad86e0e8e6d.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-加粗斜体删除线底纹&quot;&gt;4. 加粗、斜体、删除线、底纹&lt;/h3&gt;
+
+&lt;p&gt;语法：&lt;code class=&quot;highlighter-rouge&quot;&gt;**加粗**&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;*斜体*&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;~~删除线~~&lt;/code&gt; （⚠️ 注意：符号和文字间没有空格）&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;**加粗**
+
+*斜体*
+
+~~删除线~~
+
+` 底纹 `
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40985265-574c8374-6916-11e8-9a0d-e56c9cb109d0.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-列表&quot;&gt;5. 列表&lt;/h3&gt;
+
+&lt;p&gt;语法：无序列表直接在文字前加 「 - 」 或者 「 * 」或者 「 + 」 即可，有序列表则直接在文字前加 「1.」「2.」「3.」 。在 「 * 」「 - 」「 + 」「1.」「2.」「3.」等前加两个空格键或者一个 tab 键就可以产生一个子列表。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;⚠️ 注意
+
+	1. 符号要和文字之间加上一个字符的空格；
+	
+	3. 同一级的有序列表中的序号是连续的数字，它们与编号符号无关。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#### 有序列表
+
+1. text 1
+2. text 2
+  3. subtext 1
+  4. subtext 2
+5. text 3
+6. text 4 
+
+#### 无序列表
+
+- text 1
+- text 2
+  - subtext 1
+  - subtext 2
+- text 3
+- text 4 
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40985361-83f177a4-6916-11e8-827d-605262b4531d.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6-引用&quot;&gt;6. 引用&lt;/h3&gt;
+
+&lt;p&gt;语法：在文本内容之前加 「 &amp;gt; 」 即可将文本变成引用文本。「 » 」 表示引用里面再套一层引用，依次类推。&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;⚠️ 注意
+
+	1. 如果 &amp;gt; 和 &amp;gt;&amp;gt; 嵌套使用的话，从 &amp;gt;&amp;gt; 退到 &amp;gt; 时，必须之间要加一个空格或者 &amp;gt; 作为过渡，否则默认为下一行和上一行是同一级别的引用。
+	
+	2. 引用标记里可以使用其他标记，如：有序列表或无序列表标记，代码标记等。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+
+&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt;&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt;&amp;gt;&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; 书山有路勤为径，学海无崖苦作舟
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40985470-c6567e82-6916-11e8-94f5-af1f7da4afa1.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7-图片和链接&quot;&gt;7. 图片和链接&lt;/h3&gt;
+
+&lt;p&gt;语法：&lt;code class=&quot;highlighter-rouge&quot;&gt;![图片描述](图片的地址或存储路径)&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;[文本内容](链接的地址)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#### 博客链接
+[my blog](https://sinsa110.github.io/)
+
+#### 绘制流程图基本技巧中的图片
+![决策流程图](https://user-images.githubusercontent.com/13688310/40121933-3aed351e-5955-11e8-99b9-96f742e6acf6.png)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40985557-fa21b948-6916-11e8-8a3c-984e68cb3702.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;8-表格&quot;&gt;8. 表格&lt;/h3&gt;
+
+&lt;p&gt;语法:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;表头|表头|表头
+---|:--:|---:
+内容|内容|内容
+内容|内容|内容
+
+第二行分割表头和内容。
+- 有一个就行，为了对齐，多加了几个
+文字默认居左
+-两边加：表示文字居中
+-右边加：表示文字居右
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;⚠️ 注：原生的语法两边都要用 | 包起来。此处省略&lt;/p&gt;
+
+&lt;p&gt;示例 &amp;amp; 效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/41035258-aec6c030-69be-11e8-990f-0bf8f0a23360.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;9-脚注&quot;&gt;9. 脚注&lt;/h3&gt;
+
+&lt;p&gt;语法：脚注总是成对出现的，「 [^1] 」作为标记，可以点击跳至末尾注解。「 [^1]: 」填写注解，不论写在什么位置，都会出现在文章的末尾。&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;### 脚注
+
+标记[^1]
+[^1]: 注解
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/41041273-325dedda-69d1-11e8-99bc-4d39db1e1d5f.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tips&quot;&gt;tips&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-表格内容填充工具-tables-generator&quot;&gt;1. 表格内容填充工具 &lt;a href=&quot;https://www.tablesgenerator.com/markdown_tables&quot;&gt;Tables Generator&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Tables Generator 是一个可以在线快速生成 Text、Markdown 格式等多种格式表格的工具，支持在表格中填充数据，保证排版整齐，而且支持将Excel等的表格转化为markdown的格式，生成复制以后即可使用。&lt;/p&gt;
+
+&lt;p&gt;示例：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/41035800-632b91b2-69c0-11e8-8abd-c7ecb102b553.gif&quot; alt=&quot;markdown_table_new&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;参考资料&quot;&gt;参考资料&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.markdown.cn&quot;&gt;http://www.markdown.cn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.csdn.net/witnessai1/article/details/52551362&quot;&gt;https://blog.csdn.net/witnessai1/article/details/52551362&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://segmentfault.com/markdown&quot;&gt;https://segmentfault.com/markdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 10 May 2018 01:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/05/10/high-productive-markdown-tips/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/10/high-productive-markdown-tips/</guid>
+        
+        <category>Markdown</category>
+        
+        
+        <category>高效能系列</category>
+        
+      </item>
     
       <item>
         <title>[ 高效能系列 ] 之绘制流程图基本技巧</title>
@@ -24,8 +292,8 @@
       &lt;li&gt;&lt;a href=&quot;#基本要求&quot; id=&quot;markdown-toc-基本要求&quot;&gt;基本要求&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#工具推荐&quot; id=&quot;markdown-toc-工具推荐&quot;&gt;工具推荐&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#示例&quot; id=&quot;markdown-toc-示例&quot;&gt;示例&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#示例一-简单算法流程图&quot; id=&quot;markdown-toc-示例一-简单算法流程图&quot;&gt;示例一 简单算法流程图&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#示例二-人事工作流程图&quot; id=&quot;markdown-toc-示例二-人事工作流程图&quot;&gt;示例二 人事工作流程图&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#示例一-决策流程图&quot; id=&quot;markdown-toc-示例一-决策流程图&quot;&gt;示例一 决策流程图&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#示例二-基础泳道流程图&quot; id=&quot;markdown-toc-示例二-基础泳道流程图&quot;&gt;示例二 基础泳道流程图&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -90,8 +358,8 @@
 
 &lt;h2 id=&quot;三怎样绘制流程图--how-&quot;&gt;三、怎样绘制流程图？ （ how ）&lt;/h2&gt;
 &lt;h3 id=&quot;符号规范&quot;&gt;符号规范&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/styles/images/post_img/20180510/guifan2.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/styles/images/post_img/20180510/guifan1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40122207-dddd4d04-5955-11e8-8640-94f89b9deb78.png&quot; alt=&quot;guifan2&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40122319-19ce8f8a-5956-11e8-89e2-fed82a89d9b0.png&quot; alt=&quot;guifan1&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;画流程图步骤&quot;&gt;画流程图步骤&lt;/h3&gt;
 &lt;p&gt;分析问题，确定问题解决需要哪几步，中间过程都涉及哪些元素（动作输入、动作环节、输出结果等）。&lt;/p&gt;
@@ -103,11 +371,11 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;流程图须以单一入口，单一出口特征绘制。
-&lt;img src=&quot;/styles/images/post_img/20180510/shili1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40122408-520e632a-5956-11e8-947b-dc9662336f1b.png&quot; alt=&quot;shili1&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;路径符号应避免相互交叉。
-&lt;img src=&quot;/styles/images/post_img/20180510/shili2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40122435-660e232e-5956-11e8-8cee-a6b78d0ddb59.png&quot; alt=&quot;shili2&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;一个流程应该只有一个起点，有时候多个流程图融合在一起，可以有多个起点。这里注意结束符号不限。&lt;/p&gt;
@@ -126,7 +394,7 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;流程图中若参考到其他已定义流程，可使用已定义处理程序符号，不必重复绘制。
-&lt;img src=&quot;/styles/images/post_img/20180510/shili3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40122112-a326f11a-5955-11e8-86e6-00be8e48531c.png&quot; alt=&quot;shili3&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -159,14 +427,16 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;…&lt;/p&gt;
-    &lt;h3 id=&quot;示例&quot;&gt;示例&lt;/h3&gt;
-    &lt;h4 id=&quot;示例一-简单算法流程图&quot;&gt;示例一 简单算法流程图&lt;/h4&gt;
-    &lt;p&gt;&lt;img src=&quot;/styles/images/post_img/20180510/demo1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h4 id=&quot;示例二-人事工作流程图&quot;&gt;示例二 人事工作流程图&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;/styles/images/post_img/20180510/demo2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;示例&quot;&gt;示例&lt;/h3&gt;
+
+&lt;h4 id=&quot;示例一-决策流程图&quot;&gt;示例一 决策流程图&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40121933-3aed351e-5955-11e8-99b9-96f742e6acf6.png&quot; alt=&quot;default&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;示例二-基础泳道流程图&quot;&gt;示例二 基础泳道流程图&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/40121681-b348ac10-5954-11e8-8e2a-48dc3429eb11.png&quot; alt=&quot;flowchartdemo&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;四使用流程图能干什么-what-&quot;&gt;四、使用流程图能干什么？（ what ）&lt;/h2&gt;
 &lt;ol&gt;
