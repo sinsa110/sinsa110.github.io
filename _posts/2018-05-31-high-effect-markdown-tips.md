@@ -1,7 +1,7 @@
 ---
 title: "[ 高效能系列 ] 易读易写的书写语言 Markdown"
 layout: post
-date: '2018-05-10 01:08:00 +0800'
+date: '2018-05-31 12:08:00 +0800'
 categories: 高效能系列
 tag: Markdown
 ---
@@ -12,8 +12,8 @@ tag: Markdown
 
 > 上一篇文章介绍了《如何绘制流程图》，在这篇文章，将介绍两个方面内容：
 > 
-> 1. 介绍文本编辑器 Markdown 基本符号；
-> 2. 一些编辑技巧。
+> 1. Markdown 基本符号；
+> 2. 一些编辑技巧工具。
 > 
 
 
@@ -247,7 +247,7 @@ tag: Markdown
 
 
 
-## tips
+## 二、技巧 & 工具
 
 ### 1. 表格内容填充工具 [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
