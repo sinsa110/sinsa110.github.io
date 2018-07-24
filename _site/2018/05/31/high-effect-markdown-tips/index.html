@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>[ 高效能系列 ] 易读易写的书写语言 Markdown - SYP's Blog</title>
+
+	<link rel="shortcut icon" href="/styles/images/favicon.jpg">
+	<link rel="icon" href="/styles/images/favicon.jpg">
+
+	<link rel="stylesheet" href="/styles/css/index.css">
+	<link rel="stylesheet" href="/styles/css/fontawesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/styles/css/syntax.css">
+	<link rel="canonical" href="/2018/05/31/high-effect-markdown-tips/">
+	<link rel="alternate" type="application/rss+xml" title="SYP's Blog" href="/feed.xml">
+
+	<meta name="keywords" content="[ 高效能系列 ] 易读易写的书写语言 Markdown, SYP's Blog, 个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
+	<meta name="description" content="个人博客;大数据;nlp;数据分析;数据挖掘;心怀感恩;奋斗不止;Stay hungry;Stay foolish">
+
+	<script src="/styles/js/jquery.min.js"></script>
+	<!--[if lt IE 9]>
+    	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  	<![endif]-->
+  	<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "//hm.baidu.com/hm.js?";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+	</script>
+  	<style type="text/css">
+	  	.docs-content{
+	  		margin-bottom: 10px;
+	  	}
+  	</style>
+</head>
+
+  <body class="index">
+
+    <header class="navbar navbar-inverse navbar-fixed-top docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="/" class="navbar-brand">
+        <img src="/styles/images/logo.jpg">
+      </a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">    
+        <li>
+          <a href="/">主页</a>
+        </li>
+        <li>
+          <a href="/categories/">分类</a>
+        </li>
+        <li>
+          <a href="/tag">标签</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+            <a><span id="busuanzi_container_site_pv">本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</span></a>
+        </li>
+        <li>
+          <a href="/donate/"><strong>打赏</strong></a>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">关于<b class="caret"></b></a>
+          <ul class="dropdown-menu0" >
+            <li><a rel="nofollow" href="/about_me">关于作者</a></li>
+            <li><a rel="nofollow" href="/books">我的书单</a></li>
+            <li><a href="/feed.xml">RSS订阅</a></li>
+            <li class="divider"></li>
+            <li><a rel="nofollow" target="_blank" href="https://github.com/sinsa110/sinsa110.github.io">本项目</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+    <div class="docs-header" id="content">
+  <div class="container">
+  	
+  		<!--
+		    <h1>[ 高效能系列 ] 易读易写的书写语言 Markdown</h1>
+		    <p>Post on May 31, 2018 by <a href="/about">Sinsa SI</a></p>
+		-->
+		    <h3>If you find a path with no obstacles, it probably doesn’t lead anywhere.</h3>
+    
+  </div>
+</div>
+    
+      
+<div class="banner">
+  <div class="container">
+  	
+    	<a href="/categories/#高效能系列-ref">高效能系列</a>	/
+    	<a href="/tag/#Markdown-ref">Markdown</a>
+    
+  </div>
+</div>
+
+    
+
+    <div class="container docs-container">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="sidebar hidden-print" role="complementary">
+                <div id="navigation">
+  <h1>目录</h1>
+  <ul class="nav sidenav">
+  </ul>
+  <div style="height: 200px;width: 200px;">
+    <script type="text/javascript" src="//ra.revolvermaps.com/0/0/2.js?i=0w0975ogtf2&amp;m=8&amp;s=130&amp;c=54ff00&amp;t=1" async="async"></script>
+  </div>
+</div>
+
+
+            </div>
+        </div>
+        <div class="col-md-9" role="main">
+            <div class="panel docs-content">
+                <div class="wrapper">
+                    <header class="post-header">
+                        <h1 class="post-title">[ 高效能系列 ] 易读易写的书写语言 Markdown</h1>
+                        <!--
+                          <p class="post-meta">May 31, 2018</p>
+                        -->
+                        <div class="meta">Posted on <span class="postdate">May 31, 2018</span> By
+                            <a target="_blank" href="http://localhost:4000">Sinsa SI</a></div>
+                        <br/>
+                    </header>
+                    <article class="post-content">
+                        <ul id="markdown-toc">
+  <li><a href="#一基本符号" id="markdown-toc-一基本符号">一、基本符号</a>    <ul>
+      <li><a href="#1-标题" id="markdown-toc-1-标题">1. 标题</a></li>
+      <li><a href="#2-换行" id="markdown-toc-2-换行">2. 换行</a></li>
+      <li><a href="#3-分段" id="markdown-toc-3-分段">3. 分段</a></li>
+      <li><a href="#4-加粗斜体删除线底纹" id="markdown-toc-4-加粗斜体删除线底纹">4. 加粗、斜体、删除线、底纹</a></li>
+      <li><a href="#5-列表" id="markdown-toc-5-列表">5. 列表</a></li>
+      <li><a href="#6-引用" id="markdown-toc-6-引用">6. 引用</a></li>
+      <li><a href="#7-图片和链接" id="markdown-toc-7-图片和链接">7. 图片和链接</a></li>
+      <li><a href="#8-表格" id="markdown-toc-8-表格">8. 表格</a></li>
+      <li><a href="#9-脚注" id="markdown-toc-9-脚注">9. 脚注</a></li>
+    </ul>
+  </li>
+  <li><a href="#二技巧--工具" id="markdown-toc-二技巧--工具">二、技巧 &amp; 工具</a>    <ul>
+      <li><a href="#1-表格内容填充工具-tables-generator" id="markdown-toc-1-表格内容填充工具-tables-generator">1. 表格内容填充工具 Tables Generator</a></li>
+    </ul>
+  </li>
+  <li><a href="#参考资料" id="markdown-toc-参考资料">参考资料</a></li>
+</ul>
+
+<blockquote>
+  <p>上一篇文章介绍了《如何绘制流程图》，在这篇文章，将介绍两个方面内容：</p>
+
+  <ol>
+    <li>Markdown 基本符号；</li>
+    <li>一些编辑技巧工具。</li>
+  </ol>
+
+</blockquote>
+
+<h2 id="一基本符号">一、基本符号</h2>
+<h3 id="1-标题">1. 标题</h3>
+
+<p>语法：<code class="highlighter-rouge">	# + 空格 + 标题内容</code></p>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code># 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+
+一级标题
+======
+二级标题
+-----
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40984681-0ad3b3e2-6915-11e8-87ae-9bb39299c30b.png" alt="image" /></p>
+
+<h3 id="2-换行">2. 换行</h3>
+
+<p>语法：<code class="highlighter-rouge">行末加两个空格和一个换行</code> 或在换行处插入<code class="highlighter-rouge">&lt;br&gt;</code></p>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>未换行
+的效果
+
+已换行  
+的效果
+
+已换行&lt;br&gt;的效果
+
+</code></pre></div></div>
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40984823-5949acde-6915-11e8-94a4-101e4884b4b3.png" alt="image" /></p>
+
+<h3 id="3-分段">3. 分段</h3>
+
+<p>语法：段落间空一行 或在分段处插入<code class="highlighter-rouge">&lt;br&gt;&lt;/br&gt;</code></p>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>未分段
+的效果
+
+已分段
+
+的效果
+
+已分段&lt;br&gt;&lt;/br&gt;的效果
+
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40985017-bbfecdf0-6915-11e8-8499-3ad86e0e8e6d.png" alt="image" /></p>
+
+<h3 id="4-加粗斜体删除线底纹">4. 加粗、斜体、删除线、底纹</h3>
+
+<p>语法：<code class="highlighter-rouge">**加粗**</code> <code class="highlighter-rouge">*斜体*</code> <code class="highlighter-rouge">~~删除线~~</code> （⚠️ 注意：符号和文字间没有空格）</p>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>**加粗**
+
+*斜体*
+
+~~删除线~~
+
+` 底纹 `
+
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40985265-574c8374-6916-11e8-9a0d-e56c9cb109d0.png" alt="image" /></p>
+
+<h3 id="5-列表">5. 列表</h3>
+
+<p>语法：无序列表直接在文字前加 「 - 」 或者 「 * 」或者 「 + 」 即可，有序列表则直接在文字前加 「1.」「2.」「3.」 。在 「 * 」「 - 」「 + 」「1.」「2.」「3.」等前加两个空格键或者一个 tab 键就可以产生一个子列表。</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>⚠️ 注意
+
+	1. 符号要和文字之间加上一个字符的空格；
+	
+	3. 同一级的有序列表中的序号是连续的数字，它们与编号符号无关。
+</code></pre></div></div>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#### 有序列表
+
+1. text 1
+2. text 2
+  3. subtext 1
+  4. subtext 2
+5. text 3
+6. text 4 
+
+#### 无序列表
+
+- text 1
+- text 2
+  - subtext 1
+  - subtext 2
+- text 3
+- text 4 
+
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40985361-83f177a4-6916-11e8-827d-605262b4531d.png" alt="image" /></p>
+
+<h3 id="6-引用">6. 引用</h3>
+
+<p>语法：在文本内容之前加 「 &gt; 」 即可将文本变成引用文本。「 » 」 表示引用里面再套一层引用，依次类推。</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>⚠️ 注意
+
+	1. 如果 &gt; 和 &gt;&gt; 嵌套使用的话，从 &gt;&gt; 退到 &gt; 时，必须之间要加一个空格或者 &gt; 作为过渡，否则默认为下一行和上一行是同一级别的引用。
+	
+	2. 引用标记里可以使用其他标记，如：有序列表或无序列表标记，代码标记等。
+</code></pre></div></div>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; 书山有路勤为径，学海无崖苦作舟
+&gt; 书山有路勤为径，学海无崖苦作舟
+&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+
+&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+&gt;&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+&gt;&gt;&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+&gt;&gt;&gt;&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+&gt;&gt;&gt;&gt;&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 书山有路勤为径，学海无崖苦作舟
+
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40985470-c6567e82-6916-11e8-94f5-af1f7da4afa1.png" alt="image" /></p>
+
+<h3 id="7-图片和链接">7. 图片和链接</h3>
+
+<p>语法：<code class="highlighter-rouge">![图片描述](图片的地址或存储路径)</code> <code class="highlighter-rouge">[文本内容](链接的地址)</code></p>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#### 博客链接
+[my blog](https://sinsa110.github.io/)
+
+#### 绘制流程图基本技巧中的图片
+![决策流程图](https://user-images.githubusercontent.com/13688310/40121933-3aed351e-5955-11e8-99b9-96f742e6acf6.png)
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/40985557-fa21b948-6916-11e8-8a3c-984e68cb3702.png" alt="image" /></p>
+
+<h3 id="8-表格">8. 表格</h3>
+
+<p>语法:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>表头|表头|表头
+---|:--:|---:
+内容|内容|内容
+内容|内容|内容
+
+第二行分割表头和内容。
+- 有一个就行，为了对齐，多加了几个
+文字默认居左
+-两边加：表示文字居中
+-右边加：表示文字居右
+
+</code></pre></div></div>
+<p>⚠️ 注：原生的语法两边都要用 | 包起来。此处省略</p>
+
+<p>示例 &amp; 效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/41035258-aec6c030-69be-11e8-990f-0bf8f0a23360.png" alt="image" /></p>
+
+<h3 id="9-脚注">9. 脚注</h3>
+
+<p>语法：脚注总是成对出现的，「 [^1] 」作为标记，可以点击跳至末尾注解。「 [^1]: 」填写注解，不论写在什么位置，都会出现在文章的末尾。</p>
+
+<p>示例：</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>### 脚注
+
+标记[^1]
+[^1]: 注解
+
+</code></pre></div></div>
+
+<p>效果：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/41041273-325dedda-69d1-11e8-99bc-4d39db1e1d5f.png" alt="image" /></p>
+
+<h2 id="二技巧--工具">二、技巧 &amp; 工具</h2>
+
+<h3 id="1-表格内容填充工具-tables-generator">1. 表格内容填充工具 <a href="https://www.tablesgenerator.com/markdown_tables">Tables Generator</a></h3>
+
+<p>Tables Generator 是一个可以在线快速生成 Text、Markdown 格式等多种格式表格的工具，支持在表格中填充数据，保证排版整齐，而且支持将Excel等的表格转化为markdown的格式，生成复制以后即可使用。</p>
+
+<p>示例：</p>
+
+<p><img src="https://user-images.githubusercontent.com/13688310/41035800-632b91b2-69c0-11e8-8abd-c7ecb102b553.gif" alt="markdown_table_new" /></p>
+
+<h2 id="参考资料">参考资料</h2>
+<ol>
+  <li><a href="http://www.markdown.cn">http://www.markdown.cn</a></li>
+  <li><a href="https://blog.csdn.net/witnessai1/article/details/52551362">https://blog.csdn.net/witnessai1/article/details/52551362</a></li>
+  <li><a href="https://segmentfault.com/markdown">https://segmentfault.com/markdown</a></li>
+</ol>
+
+
+                    </article>
+
+                </div>
+            </div>
+            <br>
+            <div class="post-recent">
+    <div class="pre">
+        
+        <p><strong>上一篇</strong> <a href="/2018/05/10/high-effect-tips-of-flow-chart/">[ 高效能系列 ] 之绘制流程图基本技巧</a></p>
+        
+    </div>
+    <div class="nex">
+
+        
+    </div>
+</div>
+
+            <hr>
+            <div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    var gitment = new Gitment({
+        id: '[ 高效能系列 ] 易读易写的书写语言 Markdown',
+        owner: 'sinsa110',
+        repo: 'sinsa110.github.io',
+        oauth: {
+            client_id: '70fc7f558f7d9f8d8ff1',
+            client_secret: 'bbc9b024ad2ba7435d60d4eb421399dd095c34f9',
+        },
+    });
+    gitment.render('container')
+</script>
+
+        </div>
+
+
+    </div>
+</div>
+
+
+    
+    <footer class="footer" role="contentinfo">
+	<div class="container">
+		<p class="copyright">Copyright &copy; 2014-2018 <a href=""><code>Sinsa SI</code></a>.</p>
+		<p>Powered by <a href="http://jekyllrb.com">Jekyll</a>, themed from <a href="http://lesscss.cn/">Less</a>.</p>
+	</div>
+</footer>
+
+<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
+      opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
+	<input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="文章标题 日期 标签" >
+
+	<div style="position: fixed; top: 16px; right: 16px;">
+		<img src="/search/img/cb-close.png"  id="cb-close-btn"/>
+	</div>
+</div>
+
+<div style="position: fixed; right: 16px; bottom: 20px;">
+	<img src="/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
+</div>
+
+<link rel="stylesheet" href="/search/css/cb-search.css">
+
+<script src="/styles/js/jquery.min.js"></script>
+<script src="/styles/js/bootstrap.min.js"></script>
+<script src="/styles/js/holder.min.js"></script>
+<script src="/styles/js/lessismore.js"></script>
+<script src="/styles/js/application.js"></script>
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script src="/search/js/bootstrap3-typeahead.min.js"></script>
+<script src="/search/js/cb-search.js"></script>
+
+
+
+
+  </body>
+</html>
