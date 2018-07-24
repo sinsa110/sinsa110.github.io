@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" afterPath="$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,21 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-07-25-xin-dai-shen-cha-ji-chu.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-07-25-xin-dai-shen-cha-ji-chu.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="69">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+      <file leaf-file-name="2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="69">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -201,6 +202,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-05-10-高效能系列之绘制流程图基本技巧.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-31-high-productive-markdown-tips.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" />
       </list>
     </option>
   </component>
@@ -383,13 +385,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513673744763</updated>
-    </task>
-    <task id="LOCAL-00011" summary="post">
-      <created>1513858760053</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1513858760053</updated>
     </task>
     <task id="LOCAL-00012" summary="post">
       <created>1513859747136</created>
@@ -727,7 +722,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532476029591</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="post">
+      <created>1532476064536</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1532476064536</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView">
@@ -796,13 +798,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/LessOrMore/pages_list">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search/js/cb-search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1094,8 +1089,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="69">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding />
         </state>
       </provider>

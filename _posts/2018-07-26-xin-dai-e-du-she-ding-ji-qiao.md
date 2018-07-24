@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  TDRP 课程笔记－《信贷额度设定技巧》
-date:   2018-07-26 +0800
+date:   2018-07-26 01:08:00 +0800
 categories: TDRP文档集
 tag: [笔记,信贷额度设定,评分卡]
 ---
