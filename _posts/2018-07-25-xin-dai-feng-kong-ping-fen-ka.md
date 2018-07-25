@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  TDRP 课程笔记－《信贷风控评分卡简介》
+title:  TCRP 课程笔记－《信贷风控评分卡简介》
 date:   2018-07-26 +0800
-categories: TDRP文档集
+categories: TCRP文档集
 tag: [笔记,信贷评分卡]
 ---
 * content
