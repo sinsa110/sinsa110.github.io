@@ -3,7 +3,7 @@ layout: post
 title:  TCRP 课程笔记－《信贷额度设定技巧》
 date:   2018-07-26 01:08:00 +0800
 categories: 课程笔记集
-tag: [笔记,信贷额度设定,评分卡,TCRP]
+tag: [信贷额度设定,评分卡,TCRP]
 ---
 * content
 {:toc}

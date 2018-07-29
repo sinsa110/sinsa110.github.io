@@ -3,7 +3,7 @@ layout: post
 title:  TCRP 课程笔记－《催收那些事儿》
 date:   2018-07-28 08:08:00 +0800
 categories: 课程笔记集
-tag: [笔记,催收,TCRP]
+tag: [催收,TCRP]
 ---
 * content
 {:toc}

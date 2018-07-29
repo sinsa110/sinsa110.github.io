@@ -3,7 +3,7 @@ layout: post
 title:  TCRP 课程笔记－《贷后监控与管理》
 date:   2018-07-27 08:08:00 +0800
 categories: 课程笔记集
-tag: [笔记,贷后监控,TCRP]
+tag: [贷后监控,TCRP]
 ---
 * content
 {:toc}
