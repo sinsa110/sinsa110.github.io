@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md" afterPath="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md" afterPath="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" afterPath="$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-27-dai-hou-jian-kong-yu-guan-li.md" afterPath="$PROJECT_DIR$/_posts/2018-07-27-dai-hou-jian-kong-yu-guan-li.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-07-28-cui-shou-na-xie-shi-er.md" afterPath="$PROJECT_DIR$/_posts/2018-07-28-cui-shou-na-xie-shi-er.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +24,8 @@
       <file leaf-file-name="2018-07-27-dai-hou-jian-kong-yu-guan-li.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-27-dai-hou-jian-kong-yu-guan-li.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="115">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -29,8 +34,38 @@
       <file leaf-file-name="2018-07-28-cui-shou-na-xie-shi-er.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-07-28-cui-shou-na-xie-shi-er.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="230">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-07-25-xin-dai-feng-kong-ping-fen-ka.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-07-25-xin-dai-shen-cha-ji-chu.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -125,9 +160,9 @@
         <option value="$PROJECT_DIR$/_posts/2016-08-27-how-to-use-this-jekyll-theme.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-10-高效能系列之绘制流程图基本技巧.md" />
         <option value="$PROJECT_DIR$/_posts/2018-05-31-high-productive-markdown-tips.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-27-dai-hou-jian-kong-yu-guan-li.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-28-cui-shou-na-xie-shi-er.md" />
       </list>
@@ -159,7 +194,22 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
@@ -341,13 +391,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513673744763</updated>
-    </task>
-    <task id="LOCAL-00022" summary="ADD content">
-      <created>1523605155709</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1523605155710</updated>
     </task>
     <task id="LOCAL-00023" summary="ADD content">
       <created>1523713046795</created>
@@ -685,7 +728,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532784107656</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="post">
+      <created>1532784211731</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1532784211732</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TodoView">
@@ -770,6 +820,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1017,39 +1068,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="85">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-feng-kong-ping-fen-ka.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-25-xin-dai-shen-cha-ji-chu.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="92">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-26-xin-dai-e-du-she-ding-ji-qiao.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-27-dai-hou-jian-kong-yu-guan-li.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-07-28-cui-shou-na-xie-shi-er.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>

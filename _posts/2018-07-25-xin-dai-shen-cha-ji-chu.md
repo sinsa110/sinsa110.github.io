@@ -2,8 +2,8 @@
 layout: post
 title:  TCRP 课程笔记－《信贷审查基础》
 date:   2018-07-25 01:08:00 +0800
-categories: TCRP文档集
-tag: [笔记,信贷审查]
+categories: 课程笔记集
+tag: [笔记,信贷审查,TCRP]
 ---
 
 * content
