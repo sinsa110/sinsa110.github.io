@@ -5,9 +5,505 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jun 2018 11:06:50 +0800</pubDate>
-    <lastBuildDate>Fri, 08 Jun 2018 11:06:50 +0800</lastBuildDate>
+    <pubDate>Sun, 29 Jul 2018 09:38:08 +0800</pubDate>
+    <lastBuildDate>Sun, 29 Jul 2018 09:38:08 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>TCRP 课程笔记－《催收那些事儿》</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#讲师介绍&quot; id=&quot;markdown-toc-讲师介绍&quot;&gt;讲师介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课程介绍&quot; id=&quot;markdown-toc-课程介绍&quot;&gt;课程介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课件&quot; id=&quot;markdown-toc-课件&quot;&gt;课件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;讲师介绍&quot;&gt;讲师介绍&lt;/h2&gt;
+
+&lt;p&gt;常乐 高级产品专家&lt;/p&gt;
+
+&lt;h2 id=&quot;课程介绍&quot;&gt;课程介绍&lt;/h2&gt;
+
+&lt;p&gt;近年来，随着新兴金融的迅猛发展，倒逼传统金融行业不断改革和创新，促使金融行业竞争日趋激烈，伴随而来的是逾期率和不良率连年攀升，传统催收行业面临前所未有的压力和挑战。本堂课程将通过介绍催收的概念、意义和传统催收方式，基于目前的催收现状，带您一起探索未来催收的发展趋势。&lt;/p&gt;
+
+&lt;p&gt;章节介绍&lt;/p&gt;
+
+&lt;p&gt;一.催收定义&lt;/p&gt;
+
+&lt;p&gt;二.传统催收方式简介&lt;/p&gt;
+
+&lt;p&gt;三.未来催收方向展望&lt;/p&gt;
+
+&lt;p&gt;四.同盾催收产品&lt;/p&gt;
+
+&lt;h2 id=&quot;课件&quot;&gt;课件&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/7f1a1148-94cb-40b2-939e-addf00b8dd97.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/7f119c43-e888-442e-b872-c667f62c1542.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/82d198fe-fd70-4b89-b401-ebea9cb27b31.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/71304c15-f20c-4833-8e36-b094980d1e78.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ca32faea-60c4-4644-b71e-5e453320fb94.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/7e40d0f7-8a83-457d-b2f8-e589a8df7873.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/a086bbc6-cf0e-4ed0-a0a7-fd6117bed0b2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/b498accb-858c-4114-997e-d215b44ec12d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/549fbe31-1c70-4a87-a043-e5f73422bf24.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/8ca4ce6b-6c48-4323-bcb8-65f059a5f4c6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/30eb59a6-1cc4-4e37-ad48-c5fa49ff708a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/eece50be-a71c-43e0-bb2c-c39cfc463736.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/e1b2e810-8c29-47df-876d-fde77129fef9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/699ab8e0-a323-4017-9d5c-f60990c94515.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/1387559c-1073-40c9-9049-cb63200c7b34.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/23411b9e-0b92-4645-9806-a8c50e82ac11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/50dbf4ba-5d48-4175-b7fe-f6314bec2f94.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/c8ded916-e6de-4193-b31d-4ec2b5a2e70d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 28 Jul 2018 08:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/28/cui-shou-na-xie-shi-er/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/28/cui-shou-na-xie-shi-er/</guid>
+        
+        <category>催收</category>
+        
+        <category>TCRP</category>
+        
+        
+        <category>课程笔记集</category>
+        
+      </item>
+    
+      <item>
+        <title>TCRP 课程笔记－《贷后监控与管理》</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#讲师介绍&quot; id=&quot;markdown-toc-讲师介绍&quot;&gt;讲师介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课程介绍&quot; id=&quot;markdown-toc-课程介绍&quot;&gt;课程介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课件&quot; id=&quot;markdown-toc-课件&quot;&gt;课件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;讲师介绍&quot;&gt;讲师介绍&lt;/h2&gt;
+
+&lt;p&gt;闪电 高级产品专家&lt;/p&gt;
+
+&lt;h2 id=&quot;课程介绍&quot;&gt;课程介绍&lt;/h2&gt;
+
+&lt;p&gt;很多信贷机构的贷后监控环节比较薄弱，存在一定程度的重贷轻管现象，而贷后监控与管理是整个环节中的最后一环，它的重要性也是不言而喻的。提高贷后管理的工作质量和效率，可以及时发现并化解潜在风险，有效的将风险和损失降低。&lt;/p&gt;
+
+&lt;p&gt;章节概括&lt;/p&gt;
+
+&lt;p&gt;一、何为贷后管理和监控&lt;/p&gt;
+
+&lt;p&gt;贷后监控和管理的定义、目的、和理念&lt;/p&gt;
+
+&lt;p&gt;贷后监控和管理的法则：一个重新认知、两项基本原则、三种形态演变、四类主要工作；&lt;/p&gt;
+
+&lt;p&gt;二、贷后风险预警设计及功能&lt;/p&gt;
+
+&lt;p&gt;三、信贷业务到期处置&lt;/p&gt;
+
+&lt;p&gt;四、新技术在贷后的应用&lt;/p&gt;
+
+&lt;p&gt;课程中涵盖了对联防联控、用户行为分、地址风险、默客激活、催收评分卡的设计、智能语音等应用的拓展介绍&lt;/p&gt;
+
+&lt;h2 id=&quot;课件&quot;&gt;课件&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/0aaf0342-f560-425a-aa49-77d6cebcc75b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/82335f5d-172e-4b38-b6f3-d3d4bfdc0d9d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/b9b68540-3263-479c-93c4-62a7418d9007.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/998bbde0-01cc-4c28-842e-4ff0c8ba428b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/c56e0469-825e-4e64-99e6-fbc71cc07787.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/41f0d89c-85c0-44e7-9b34-f05bf19b0d8b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/410fc642-507f-4a42-ade0-f42b62c1d36e.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/bd9873c9-fae4-4ce0-9899-e7506b7b3ab6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/d4626572-2117-4714-88f0-9c379f7cfa71.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/71b9f7da-4bbc-4e8d-99cd-8759ec54b83d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/bfc544c9-981a-46a1-adca-e22611bd54ad.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/1e5f09fe-b72d-4141-b59e-76285328b799.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/9262ed08-a5b0-4f2c-9f15-51389d97c6a8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ca5fa554-4f24-4632-a6f8-45aff68c88ee.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/fed1df15-06b8-4077-b521-9a703531d5aa.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/47eafae7-942f-4f80-b4e6-c8dd0034d77d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/201daafa-8dcf-4535-b970-9c48e941b8f7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/29a344cd-4784-411d-908a-a52228585dd0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/4de4b0b6-181e-47ae-a0e2-306d7619a7fe.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/05b80e2d-d7d3-4409-a6f4-2573ce71d4f9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f1066128-8ae7-433d-8784-da2c4105243a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ef3a9702-3846-494c-8a81-54cdce8d0ae8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/1e3ff1a2-f4b2-4500-8c5d-6788e9cf97bd.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/fde16a87-d0d8-4ac0-b762-6d04d41d6bae.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/cc7b7d4c-75fe-4ff8-b6e6-f95efac127a6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/505835fe-daee-4563-8f74-579990fb93fe.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/9cd4c606-c216-4384-bbaa-c9f69fd9784f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Jul 2018 08:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/27/dai-hou-jian-kong-yu-guan-li/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/27/dai-hou-jian-kong-yu-guan-li/</guid>
+        
+        <category>贷后监控</category>
+        
+        <category>TCRP</category>
+        
+        
+        <category>课程笔记集</category>
+        
+      </item>
+    
+      <item>
+        <title>TCRP 课程笔记－《信贷额度设定技巧》</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#讲师介绍&quot; id=&quot;markdown-toc-讲师介绍&quot;&gt;讲师介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课程介绍&quot; id=&quot;markdown-toc-课程介绍&quot;&gt;课程介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#适用人群&quot; id=&quot;markdown-toc-适用人群&quot;&gt;适用人群&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#章节介绍&quot; id=&quot;markdown-toc-章节介绍&quot;&gt;章节介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课件&quot; id=&quot;markdown-toc-课件&quot;&gt;课件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;讲师介绍&quot;&gt;讲师介绍&lt;/h2&gt;
+
+&lt;p&gt;单叶松 数据分析专家&lt;/p&gt;
+
+&lt;h2 id=&quot;课程介绍&quot;&gt;课程介绍&lt;/h2&gt;
+
+&lt;p&gt;您是否有这样的焦虑：听说过建模和授信，却不知道在风控流程中处于哪一环？评分卡做好了，不知道该怎么用于额度设定？业务利润率持续低迷，不知道该给谁放多少额度？那么，就让本次课程带您解除疑惑吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;适用人群&quot;&gt;适用人群&lt;/h2&gt;
+
+&lt;p&gt;对信贷风控整体流程有所了解；对信用评分模型的基本原理和应用有所了解；想要掌握授信额度设定的基本方法，以及在实际工作中有相关需求的人员&lt;/p&gt;
+
+&lt;h2 id=&quot;章节介绍&quot;&gt;章节介绍&lt;/h2&gt;
+
+&lt;p&gt;一、信用评分模型回顾：模型和授信在整个风控流程中处于什么样的位置？评分模型构建的大致流程有哪些？&lt;/p&gt;
+
+&lt;p&gt;二、授信策略构建方案：授信策略的制定流程是怎样的？评分准入线是如何设置的？除了信用评分，额度设定还需要考虑哪些因素？&lt;/p&gt;
+
+&lt;p&gt;三、授信策略案例分享：源自真实场景，还原实际案例；深入浅出，逐步剖析策略构建过程。&lt;/p&gt;
+
+&lt;h2 id=&quot;课件&quot;&gt;课件&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/96571f70-6a28-4b6b-8d2d-70e559911612.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/5c79ed41-d019-4553-90c8-b7612461f1dc.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/bb6c0e09-0124-4efc-82dd-2b45df7bd53c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/5e38e42a-32fe-4ba2-b433-57b08d898942.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/4733c4c1-748e-45ca-812c-6442c19ca409.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/4a68a022-5e4d-46d7-8c2c-7cf42b0fa839.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/46efdec5-37a2-40af-b7ab-809cb23af8ba.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f34e0be7-3a3d-4625-9758-723a598740d3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/3ebf22da-2a8b-424d-8168-e86b45a0f077.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f3763138-2267-4648-a28c-028a1870c767.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/b1d8714b-3812-45de-8b4a-631cb17a28e8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ac4e1542-4c96-4da9-bee9-95bf1839a8f6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f6cdacf1-396c-405f-9636-6eff146aea84.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/391d4f4f-0265-49bc-8d61-b9175523fc9a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/3e9e6e27-fa96-43c3-8960-6a03a5687ec6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/b305d350-7c50-4354-98f4-3ce28b47408d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/c97ac3cd-0c04-4aaa-a497-bed983d4d702.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/4acb5047-5cc3-47fa-bf3f-776463d47841.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/d29cc6c6-97a2-47e6-b04b-af4d6f912642.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/d70f6e91-b719-4191-8eb5-f0916b0268be.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/d3736c50-5cb4-4052-b4a6-1db5282c07ab.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/169f9b65-a3c0-4a25-8b79-a2600d4df309.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 01:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/26/xin-dai-e-du-she-ding-ji-qiao/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/26/xin-dai-e-du-she-ding-ji-qiao/</guid>
+        
+        <category>信贷额度设定</category>
+        
+        <category>评分卡</category>
+        
+        <category>TCRP</category>
+        
+        
+        <category>课程笔记集</category>
+        
+      </item>
+    
+      <item>
+        <title>TCRP 课程笔记－《信贷风控评分卡简介》</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#讲师介绍&quot; id=&quot;markdown-toc-讲师介绍&quot;&gt;讲师介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课程介绍&quot; id=&quot;markdown-toc-课程介绍&quot;&gt;课程介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#适用人群&quot; id=&quot;markdown-toc-适用人群&quot;&gt;适用人群&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#章节介绍&quot; id=&quot;markdown-toc-章节介绍&quot;&gt;章节介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课件&quot; id=&quot;markdown-toc-课件&quot;&gt;课件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;讲师介绍&quot;&gt;讲师介绍&lt;/h2&gt;
+
+&lt;p&gt;无偏 信贷风控资深数据分析师&lt;/p&gt;
+
+&lt;h2 id=&quot;课程介绍&quot;&gt;课程介绍&lt;/h2&gt;
+
+&lt;p&gt;本课程主要对信贷风控领域的评分卡进行介绍，包括评分卡中的申请评分卡，行为评分卡和催收评分卡。针对申请评分卡，本课程展示了基于逻辑回归和BestKS分箱算法（BestKS分箱算法是一种以最优KS为分割点的二叉树结构的分箱算法，目的是获得IV最高的特征分箱组合方式的整个建模流程及模型监控中重要的指标评估），同时也会介绍一些建模流程中特征筛选等技巧。&lt;/p&gt;
+
+&lt;h2 id=&quot;适用人群&quot;&gt;适用人群&lt;/h2&gt;
+
+&lt;p&gt;有一定建模经验（有1-2年经验，但想要形成完整建模体系）；有一定的统计学基础（想要从事信贷风控领域，但却没有信贷风险建模经验）；需要从事信贷风控领域，且对信贷风险评估了解不深的人员。&lt;/p&gt;
+
+&lt;h2 id=&quot;章节介绍&quot;&gt;章节介绍&lt;/h2&gt;
+
+&lt;p&gt;一、信控风贷评分卡简介：评分卡模型有哪几种，他们分别适用于什么样的场景中；&lt;/p&gt;
+
+&lt;p&gt;二、信贷风控评分卡建模流程 ；&lt;/p&gt;
+
+&lt;p&gt;三、信贷风控评分卡模型监控：课程中涉及到PSI、Migration Matrix、Gini指数，Divergence指数还有Kendall’Tau ；&lt;/p&gt;
+
+&lt;p&gt;四、信贷风控评分卡案例分析。&lt;/p&gt;
+
+&lt;h2 id=&quot;课件&quot;&gt;课件&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/284e37b9-8069-480f-8a3f-c7ba9a46e753.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/5f54c78b-f3ed-40c9-b78e-2c7a5642d602.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/3a601210-13d8-4f24-92ca-3b57ded01a49.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/8dd32bf2-b6cc-4a18-a4e9-7cf82819e4b7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/947367ed-94db-4a17-8b1e-969f0bd8ebef.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/af70f900-d3ab-4bd3-8908-6499fc4b7fc2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f2846b1f-3132-400a-9a13-69205416231a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/1a765324-bc15-45d6-94f4-c0721742fdb9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/267921c4-2382-487e-a916-819861da1a79.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/80270bed-4e2a-4416-839d-b9e06ede16e2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/0f2c39e3-90fb-4149-a85d-d72b601193a2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/dfbeed5c-517d-4c87-b3e6-fbff4d8aac27.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/b0d00f24-4d2c-4092-a46a-5252ad962d2c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/16c347c9-a7d6-4eda-a322-cf6758f4681c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/da5211a6-03b2-49d1-8610-ba11f0cc798b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/1da7bbc6-2b48-4057-b9a9-c2cd6a0769da.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/cd03c3d8-a895-4c72-a910-9dc3b189b25e.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/d9155322-24fe-4895-b070-35c894e5106c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/741996ab-c166-4d81-b99d-672ad7b76b77.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/a2cf527e-fc75-4cb3-b71f-0b63f3f245d6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/1433a296-deb6-417c-93b2-2dbdf8b50dd3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ad68990e-f353-4ca5-98f5-895d08e5d6ec.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/3d23a45f-8714-45b1-9c42-362ab0a5bfa9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ed47ca03-8cac-499a-9bee-910b3579702e.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/26e6cd10-5549-4bb3-a193-7bf328c29ede.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/26/xin-dai-feng-kong-ping-fen-ka/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/26/xin-dai-feng-kong-ping-fen-ka/</guid>
+        
+        <category>信贷评分卡</category>
+        
+        <category>TCRP</category>
+        
+        
+        <category>课程笔记集</category>
+        
+      </item>
+    
+      <item>
+        <title>TCRP 课程笔记－《信贷审查基础》</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#讲师介绍&quot; id=&quot;markdown-toc-讲师介绍&quot;&gt;讲师介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课程介绍&quot; id=&quot;markdown-toc-课程介绍&quot;&gt;课程介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#适用人群&quot; id=&quot;markdown-toc-适用人群&quot;&gt;适用人群&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#章节介绍&quot; id=&quot;markdown-toc-章节介绍&quot;&gt;章节介绍&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#课件&quot; id=&quot;markdown-toc-课件&quot;&gt;课件&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;讲师介绍&quot;&gt;讲师介绍&lt;/h2&gt;
+
+&lt;p&gt;拼搏 高级策略分析师&lt;/p&gt;
+
+&lt;h2 id=&quot;课程介绍&quot;&gt;课程介绍&lt;/h2&gt;
+
+&lt;p&gt;本堂课程的学习，能够帮助您对信贷审查工作中所有流程涉及到的工作内容有一个大体认知，产生目标性的理解。信贷欺诈手段无非是构造虚假偿还能力，和冒用他人信息等，想一想，如果让您从事审查工作，您又会怎样进行欺诈防控呢？&lt;/p&gt;
+
+&lt;h2 id=&quot;适用人群&quot;&gt;适用人群&lt;/h2&gt;
+
+&lt;p&gt;广大信贷风控领域的任何追风人。&lt;/p&gt;
+
+&lt;h2 id=&quot;章节介绍&quot;&gt;章节介绍&lt;/h2&gt;
+
+&lt;p&gt;一、信贷介绍&lt;/p&gt;
+
+&lt;p&gt;二、信贷工作流程&lt;/p&gt;
+
+&lt;p&gt;• 信审流程怎样设计最有利于资源的节约、风险点的把控、审批时效的提高？&lt;/p&gt;
+
+&lt;p&gt;• 不同产品应该设计哪些调查方式和渠道，有哪些有行业认可的可获得的数据来源？&lt;/p&gt;
+
+&lt;p&gt;• 哪些产品在当前信息传输情况不能偏离人工审核，哪些可以设置成自动化审批？&lt;/p&gt;
+
+&lt;p&gt;• 不同产品的申请资料有哪些可虚假操作范围，不良中介有哪些经营特征？&lt;/p&gt;
+
+&lt;p&gt;三、已存在的审批技术和流程模式介绍&lt;/p&gt;
+
+&lt;h2 id=&quot;课件&quot;&gt;课件&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ee0617d0-53a8-4503-b5a9-a17afa1f2e0f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/22df05ba-8459-414d-b920-0a6de09a7cda.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/72024db9-fa22-41d6-ba9c-089c1b843178.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/cdedf389-06e1-406c-91a0-d1d9405f324b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/b3c4570b-c3cd-4b84-8d81-1e9d308827ba.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/633bfdee-fb2b-4101-a674-7425ee2d5877.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f51c764f-d0c9-4d78-baea-111d1497023a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/4ab0cbbe-6f6e-451c-a667-498252e1a095.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/355fd171-4bcf-41f7-9ad7-df67de302ce8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/91823a23-ce4d-462e-8489-c03a3854418c.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/4bb6bbf1-fc6a-4aa8-a616-84ce0a66e1f0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/c366c432-7b58-48c0-926f-de18fc3423fe.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/9bafa6df-4648-4b59-a9f6-e4fb2755a6b0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/a35f2df4-0b6b-412b-b951-3ab631971338.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/a5b9c411-5868-4133-bd55-8bae329185be.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/42fb7229-bd34-4100-9674-86a1c9609c6a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/d7189cd8-d27b-495d-ae7f-02a3d71a72bb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/ccff939b-0612-4b39-a245-87b4423aea73.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/05379eca-f104-44e0-b9c6-6da2293de6a9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/02bdb76e-a0d6-494a-81a0-e5a760072428.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/21787cd3-cdbf-406b-bc0c-d778f26769fe.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/9887482c-b955-49e1-89e4-8b150b9b2a53.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/5bc8be19-351a-46c0-a27f-75ad3ce2f6cd.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/a02a03a5-e3a4-4f4b-ae4f-9049c5d4849e.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/5b2daed4-2907-45af-91f8-1090c9d584e5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/64b27f0f-886c-4bbe-a3de-aa3d8e65e739.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/dc2d34a5-d3db-4921-b04d-3911a0f582d4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/e48850a1-4568-4e7e-94a1-8b62263113b4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/eea7f198-6070-4465-9893-02bc689f2efa.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/aaa59134-efad-40dd-85f0-bedcacbc9c41.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/6c4e4a03-c717-4199-9acc-1602fce15172.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/48d14ca0-a82f-48a2-be02-f6554d550a80.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/960f2145-6578-4bb8-95c6-9d2970b86610.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/bc5cf8f9-7766-4d71-9439-0927f331dcc0.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/2a9aa4a8-6644-4e7a-9dfb-6b774fd9c33d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/f52e0033-dde2-4243-9e88-7df964b610d8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/e084cc74-1966-49d5-9638-5ead9af1f8cb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://app.yinxiang.com/shard/s50/res/70230aa7-fd13-42f9-8b35-f5e93da11225.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Jul 2018 01:08:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/07/25/xin-dai-shen-cha-ji-chu/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/25/xin-dai-shen-cha-ji-chu/</guid>
+        
+        <category>信贷审查</category>
+        
+        <category>TCRP</category>
+        
+        
+        <category>课程笔记集</category>
+        
+      </item>
     
       <item>
         <title>[ 高效能系列 ] 易读易写的书写语言 Markdown</title>
@@ -299,6 +795,10 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#四使用流程图能干什么-what-&quot; id=&quot;markdown-toc-四使用流程图能干什么-what-&quot;&gt;四、使用流程图能干什么？（ what ）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#后记&quot; id=&quot;markdown-toc-后记&quot;&gt;后记&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#20180621&quot; id=&quot;markdown-toc-20180621&quot;&gt;2018.06.21&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
@@ -446,6 +946,12 @@
   &lt;li&gt;研发／开发过程引导&lt;/li&gt;
   &lt;li&gt;… …&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&quot;后记&quot;&gt;后记&lt;/h2&gt;
+&lt;h3 id=&quot;20180621&quot;&gt;2018.06.21&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;没系统学习流程图之前，写代码总是从上到下的一大坨，阅读起来非常困难。现在写代码，首先，会花费一定的时间思考总体流程框架，想清楚代码包括哪几大模块（如读取数据、解析数据、处理数据、存储结果），每个大模块中可细分为哪几个小模块；然后，一个大模块对应一个类／函数，一个小模块对应一个函数；最后，一个个开发。这样写出来的代码美观易读，fix bug 也变得容易很多。很享受这种感觉！&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         <pubDate>Thu, 10 May 2018 12:08:00 +0800</pubDate>
         <link>http://localhost:4000/2018/05/10/high-effect-tips-of-flow-chart/</link>
@@ -884,272 +1390,6 @@ __delitem__调用
         
         
         <category>个人反思录</category>
-        
-      </item>
-    
-      <item>
-        <title>字典树 Trie 结构介绍及其实现</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#概念&quot; id=&quot;markdown-toc-概念&quot;&gt;概念&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#性质&quot; id=&quot;markdown-toc-性质&quot;&gt;性质&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#基本思想&quot; id=&quot;markdown-toc-基本思想&quot;&gt;基本思想&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#1插入过程&quot; id=&quot;markdown-toc-1插入过程&quot;&gt;1、插入过程&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#2查询过程&quot; id=&quot;markdown-toc-2查询过程&quot;&gt;2、查询过程&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#应用&quot; id=&quot;markdown-toc-应用&quot;&gt;应用&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#优缺点&quot; id=&quot;markdown-toc-优缺点&quot;&gt;优缺点&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#实现&quot; id=&quot;markdown-toc-实现&quot;&gt;实现&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#python-版&quot; id=&quot;markdown-toc-python-版&quot;&gt;python 版&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#参考资料&quot; id=&quot;markdown-toc-参考资料&quot;&gt;参考资料&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;概念&quot;&gt;概念&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;Trie，又称前缀树或字典树，是一种有序树状的数据结构，用于保存关联数组，其中的键通常是字符串。&lt;/p&gt;
-
-&lt;h3 id=&quot;性质&quot;&gt;性质&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-  &lt;li&gt;根节点不包含字符，除根节点外的每个节点只包含一个字符。&lt;/li&gt;
-  &lt;li&gt;从根节点到某一个节点，路径上经过的字符连接起来，为该节点对应的字符串。&lt;/li&gt;
-  &lt;li&gt;每个节点的所有子节点包含的字符串不相同。&lt;/li&gt;
-  &lt;li&gt;每个节点的所有子孙都有相同的前缀，也就是这个节点对应的字符串。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;基本思想&quot;&gt;基本思想&lt;/h3&gt;
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;1插入过程&quot;&gt;1、插入过程&lt;/h4&gt;
-&lt;p&gt;这里以字母树为例，对于一个单词，从根开始，沿着单词的各个字母所对应的树中的节点分支向下走，直到单词遍历完，将最后的节点标记为红色，表示该单词已插入Trie树。&lt;/p&gt;
-
-&lt;h4 id=&quot;2查询过程&quot;&gt;2、查询过程&lt;/h4&gt;
-
-&lt;p&gt;同样的，从根开始按照单词的字母顺序向下遍历trie树，一旦发现某个节点标记不存在或者单词遍历完成而最后的节点未标记为红色，则表示该单词不存在，若最后的节点标记为红色，表示该单词存在。&lt;/p&gt;
-
-&lt;h3 id=&quot;应用&quot;&gt;应用&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-  &lt;li&gt;关键词检索&lt;/li&gt;
-  &lt;li&gt;词频统计&lt;/li&gt;
-  &lt;li&gt;搜索提示&lt;/li&gt;
-  &lt;li&gt;作为辅助结构&lt;/li&gt;
-  &lt;li&gt;… …&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;优缺点&quot;&gt;优缺点&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;优点：时间复杂度小。它的插入和查询时间复杂度都为 O(k) ，其中 k 为 key 的长度，与 Trie 中保存了多少个元素无关。&lt;/p&gt;
-
-&lt;p&gt;缺点：空间消耗很高。&lt;/p&gt;
-
-&lt;h3 id=&quot;实现&quot;&gt;实现&lt;/h3&gt;
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;python-版&quot;&gt;python 版&lt;/h4&gt;
-
-&lt;p&gt;用嵌套字典来实现树结构&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# !/usr/bin/env python&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# -*- coding:utf-8 -*-&lt;/span&gt;
-&lt;span class=&quot;c&quot;&gt;# create on 18/1/4&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;__author__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'yipu.si'&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sys&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;json&lt;/span&gt;
-
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;logging&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;logging&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;warn&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;basicConfig&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;level&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;logging&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;INFO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(asctime)&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;s - PID:&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(process)&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;d - &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(levelname)&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;s: &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%(message)&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;s'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;nb&quot;&gt;reload&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setdefaultencoding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-
-&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Trie&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;root&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'/'&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;define Trie&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-            &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setdefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{})&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;END&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;None&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;add_word_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;words&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;add words&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;words&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-            &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;added successfully&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-            &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-                &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;
-            &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;VPrint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dumps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ensure_ascii&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;indent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;u&quot;&quot;&quot;一举,一举一动,一举成名,一举成名天下知,万能,万能胶&quot;&quot;&quot;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;li&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;word&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;,&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;trie&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Trie&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;trie&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_word_list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;li&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;trie&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;VPrint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;trie&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;u&quot;一举一动&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;trie&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sinsaSi&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;参考资料&quot;&gt;参考资料&lt;/h3&gt;
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.runoob.com/python/att-dictionary-setdefault.html&quot;&gt;Python 字典(Dictionary) setdefault()方法&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 04 Jan 2018 01:08:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/01/04/trie-tree-and-the-implement-with-python/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/04/trie-tree-and-the-implement-with-python/</guid>
-        
-        <category>Trie树</category>
-        
-        
-        <category>pyCoder之路</category>
-        
-      </item>
-    
-      <item>
-        <title>如何使用 LessOrMore 这个 Jekyll 模版</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#Thanks&quot; id=&quot;markdown-toc-Thanks&quot;&gt;致谢&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#How-to-use&quot; id=&quot;markdown-toc-How-to-use&quot;&gt;使用&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#Download&quot; id=&quot;markdown-toc-Download&quot;&gt;下载&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#Configuration&quot; id=&quot;markdown-toc-Configuration&quot;&gt;配置&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#How-to-write-document&quot; id=&quot;markdown-toc-How-to-write-document&quot;&gt;如何写文章&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#execute&quot; id=&quot;markdown-toc-execute&quot;&gt;执行&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#result&quot; id=&quot;markdown-toc-result&quot;&gt;效果&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;Thanks&quot;&gt;致谢&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;http://lesscss.cn/&quot;&gt;Less官网&lt;/a&gt;的样式，本 Jekyll 框架的样式都是基于 Less 官网的样式直接拷贝过来的。只是重构了 JS，并且加入了Jekyll语法而已。&lt;/li&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;提供的代码维护和发布平台&lt;/li&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;团队做出如此优秀的产品&lt;/li&gt;
-  &lt;li&gt;感谢&lt;a href=&quot;https://github.com/mattvh/solar-theme-jekyll&quot;&gt;Solar&lt;/a&gt;的原作者&lt;a href=&quot;http://www.webmaster-source.com/&quot;&gt;Matt Harzewski&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;How-to-use&quot;&gt;使用&lt;/h1&gt;
-
-&lt;h2 id=&quot;Download&quot;&gt;下载&lt;/h2&gt;
-
-&lt;p&gt;使用git从&lt;a href=&quot;https://github.com/luoyan35714/LessOrMore.git&quot;&gt;LessOrMore&lt;/a&gt;主页下载项目&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/luoyan35714/LessOrMore.git
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;Configuration&quot;&gt;配置&lt;/h2&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;LessOrMore&lt;/code&gt;项目需要配置的只有一个文件&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;，打开之后按照如下进行配置。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;特别注意&lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt;的配置。如果是&lt;code class=&quot;highlighter-rouge&quot;&gt;***.github.io&lt;/code&gt;项目，不修改为空’‘的话，会导致JS,CSS等静态资源无法找到的错误&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;name: 博客名称
-email: 邮箱地址
-author: 作者名
-url: 个人网站
-&lt;span class=&quot;c&quot;&gt;### baseurl修改为项目名，如果项目是'***.github.io'，则设置为空''&lt;/span&gt;
-baseurl: &lt;span class=&quot;s2&quot;&gt;&quot;/LessOrMore&quot;&lt;/span&gt;
-resume_site: 个人简历网站
-github: github地址
-github_username: github用户名称
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : 多说账户
-    disqus :
-        short_name : Disqus账户
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;How-to-write-document&quot;&gt;如何写文章&lt;/h2&gt;
-
-&lt;p&gt;在&lt;code class=&quot;highlighter-rouge&quot;&gt;LessOrMore/_posts&lt;/code&gt;目录下新建一个文件，可以创建文件夹并在文件夹中添加文件，方便维护。在新建文件中粘贴如下信息，并修改以下的&lt;code class=&quot;highlighter-rouge&quot;&gt;titile&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;date&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;categories&lt;/code&gt;,&lt;code class=&quot;highlighter-rouge&quot;&gt;tag&lt;/code&gt;的相关信息，添加&lt;code class=&quot;highlighter-rouge&quot;&gt;* content {:toc}&lt;/code&gt;为目录相关信息，在进行正文书写前需要在目录和正文之间输入至少2行空行。然后按照正常的Markdown语法书写正文。&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;---&lt;/span&gt;
-layout: post
-&lt;span class=&quot;c&quot;&gt;#标题配置&lt;/span&gt;
-title:  标题
-&lt;span class=&quot;c&quot;&gt;#时间配置&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;date&lt;/span&gt;:   2017-12-21 01:08:00 +0800
-&lt;span class=&quot;c&quot;&gt;#大类配置&lt;/span&gt;
-categories: document
-&lt;span class=&quot;c&quot;&gt;#小类配置&lt;/span&gt;
-tag: 教程
-&lt;span class=&quot;nt&quot;&gt;---&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt; content
-&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;:toc&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-
-
-我是正文。我是正文。我是正文。我是正文。我是正文。我是正文。
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;execute&quot;&gt;执行&lt;/h2&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll server
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;result&quot;&gt;效果&lt;/h2&gt;
-&lt;p&gt;打开浏览器并输入URL&lt;code class=&quot;highlighter-rouge&quot;&gt;http://127.0.0.1:4000/&lt;/code&gt;,回车。&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Dec 2017 01:08:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/12/21/how-to-use-this-jekyll-theme/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/21/how-to-use-this-jekyll-theme/</guid>
-        
-        <category>教程</category>
-        
-        <category>Jekyll</category>
-        
-        <category>LessOrMore</category>
-        
-        
-        <category>其他文档集</category>
-        
-      </item>
-    
-      <item>
-        <title>以此博客纪念工作三周年</title>
-        <description>
-&lt;p&gt;2014 年 12 月 20 日，开启了我的工作生涯。&lt;/p&gt;
-
-&lt;p&gt;三年过去了，工作之余也整理了一些知识点 ( 见&lt;a href=&quot;http://blog.csdn.net/sinsa110&quot;&gt;csdn blog&lt;/a&gt;)，但不够系统。&lt;/p&gt;
-
-&lt;p&gt;为此搭建此博客，希望自己能够花费更多的时间&lt;strong&gt;去总结，去记录&lt;/strong&gt;工作和生活。&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Dec 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/12/21/working-3-years/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/12/21/working-3-years/</guid>
-        
-        <category>随想</category>
-        
-        
-        <category>其他文档集</category>
         
       </item>
     
