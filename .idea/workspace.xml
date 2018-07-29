@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-07-29-hu-si-ni-and-jie-si-ni.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/07/25/xin-dai-shen-cha-ji-chu/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/07/26/xin-dai-e-du-she-ding-ji-qiao/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/07/26/xin-dai-feng-kong-ping-fen-ka/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/07/27/dai-hou-jian-kong-yu-guan-li/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/07/28/cui-shou-na-xie-shi-er/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/2018/07/29/hu-si-ni-and-jie-si-ni/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_site/blog_posting_flowchart.gliffy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog_posting_flowchart.gliffy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/05/10/high-effect-tips-of-flow-chart/index.html" afterPath="$PROJECT_DIR$/_site/2018/05/10/high-effect-tips-of-flow-chart/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2018/05/31/high-effect-markdown-tips/index.html" afterPath="$PROJECT_DIR$/_site/2018/05/31/high-effect-markdown-tips/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/categories/index.html" afterPath="$PROJECT_DIR$/_site/categories/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
@@ -53,11 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="33" column="31" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="295">
+              <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-12-20-working-3-years.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -190,10 +207,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="49" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="41" />
     <option name="y" value="23" />
-    <option name="width" value="1391" />
+    <option name="width" value="1399" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -222,6 +239,11 @@
             <path>
               <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sinsa110.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sinsa110.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -452,13 +474,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513673744763</updated>
-    </task>
-    <task id="LOCAL-00026" summary="ADD content">
-      <created>1523719912036</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1523719912036</updated>
     </task>
     <task id="LOCAL-00027" summary="add search tool">
       <created>1523845287142</created>
@@ -796,7 +811,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532827931790</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="post">
+      <created>1532828310278</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1532828310278</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TodoView">
@@ -809,7 +831,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="23" width="1399" height="877" extended-state="6" />
+    <frame x="41" y="23" width="1399" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -870,14 +892,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -1073,13 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-04-trie-tree-and-the-implement-with-python.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1165,8 +1172,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="33" column="31" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="295">
+          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-29-hu-si-ni-and-jie-si-ni.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-20-working-3-years.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
