@@ -5,9 +5,119 @@
     <description>Ten thousand hours to explore the power of data science.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jul 2018 07:51:27 +0800</pubDate>
-    <lastBuildDate>Mon, 30 Jul 2018 07:51:27 +0800</lastBuildDate>
+    <pubDate>Sat, 04 Aug 2018 21:01:10 +0800</pubDate>
+    <lastBuildDate>Sat, 04 Aug 2018 21:01:10 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>反欺诈概念库-虚假交易</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#一定义形式&quot; id=&quot;markdown-toc-一定义形式&quot;&gt;一、定义/形式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#二平台危害&quot; id=&quot;markdown-toc-二平台危害&quot;&gt;二、平台危害&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#三管控环节&quot; id=&quot;markdown-toc-三管控环节&quot;&gt;三、管控环节&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#31-事前预防&quot; id=&quot;markdown-toc-31-事前预防&quot;&gt;3.1 事前预防&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#33-事中遏制&quot; id=&quot;markdown-toc-33-事中遏制&quot;&gt;3.3 事中遏制&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#32-事后处罚&quot; id=&quot;markdown-toc-32-事后处罚&quot;&gt;3.2 事后处罚&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#四防控挑战&quot; id=&quot;markdown-toc-四防控挑战&quot;&gt;四、防控挑战&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#41-代发交易行为被误杀&quot; id=&quot;markdown-toc-41-代发交易行为被误杀&quot;&gt;4.1 代发交易行为被误杀&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#42-商家进货行为被误杀&quot; id=&quot;markdown-toc-42-商家进货行为被误杀&quot;&gt;4.2 商家进货行为被误杀&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#43-同行恶意竞争被误杀&quot; id=&quot;markdown-toc-43-同行恶意竞争被误杀&quot;&gt;4.3 同行恶意竞争被误杀&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#五发展趋势&quot; id=&quot;markdown-toc-五发展趋势&quot;&gt;五、发展趋势&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;一定义形式&quot;&gt;一、定义/形式&lt;/h2&gt;
+&lt;p&gt;虚假交易，是指不存在、不真实的买卖行为。在互联网中，一般是指网络购物平台中卖家（商家）通过不正当的方式获取商品销量、店铺评分、信用积分等不当利益，从而妨害买家权益的行为。刷单、刷钻、刷信誉、刷信用、刷积分等，都是虚假交易行为。例如，淘宝虚假交易的定义是指通过不正当方式提高账户信用，妨害买家高效购物权益的行为。&lt;/p&gt;
+
+&lt;p&gt;另外，信用卡套现也是虚假交易，恶意套现还可能要坐牢。&lt;/p&gt;
+
+&lt;h2 id=&quot;二平台危害&quot;&gt;二、平台危害&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;扰乱平台秩序，影响搜索排名和图墙排序，进而污染平台上商家公平竞争的环境，导致商家流失；&lt;/li&gt;
+  &lt;li&gt;拉低平台信誉，影响用户体验，导致用户流失；&lt;/li&gt;
+  &lt;li&gt;平台费用损耗，例如营销费用资损、支付渠道费资损等；&lt;/li&gt;
+  &lt;li&gt;存在买家信息泄漏风险，例如商家盗用真实用户的买家信息进行刷单；&lt;/li&gt;
+  &lt;li&gt;引发账号安全问题，例如盗号、恶意注册和账户买卖等。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;三管控环节&quot;&gt;三、管控环节&lt;/h2&gt;
+
+&lt;p&gt;一般的，虚假交易的管控环节包括三个：事前预防、事中遏制、事后查处。&lt;/p&gt;
+
+&lt;h4 id=&quot;31-事前预防&quot;&gt;3.1 事前预防&lt;/h4&gt;
+&lt;p&gt;事前预防是指在制定产品计划、业务方案时，尽量规避发生虚假交易的风险，提升虚假交易的成本。这里的业务方案包括店铺信誉评分计算、图墙排序规则、搜索排名规则、营销策略等。&lt;/p&gt;
+
+&lt;p&gt;事前预防要做的就是风险评审工作，即要求对各个业务部门提供的产品方案、网络营销模式、营销手段、排名评分规则等进行风险评估。通过风险评审，确定其可能存在的风险点，提供优化方案，并确定风控防控方案。该环节风险评审工作主要是依赖于业务逻辑和历史专家经验。&lt;/p&gt;
+
+&lt;p&gt;实际应用中，风险评审对减少虚假交易的效果有限，对减少虚假交易处罚反弹以及降低营销风险和支付风险的效果明显。&lt;/p&gt;
+
+&lt;h4 id=&quot;33-事中遏制&quot;&gt;3.3 事中遏制&lt;/h4&gt;
+&lt;p&gt;事中遏制是指对虚假交易订单生成后进行识别，并中断虚假交易订单的生成。识别手段有：黑用户名单库、规则引擎识别、模型识别（具体的内容见后续相关文章介绍）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/43676730-5b5a0454-9829-11e8-8b3c-5fd6b1929703.png&quot; alt=&quot;shizhongchachu1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;遏制办法有：禁止下单、系统自动退货退款、冻结发货。&lt;/p&gt;
+
+&lt;p&gt;事中遏制环节存在的挑战有：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;识别过程中，对规则和模型的准确性和实时性要求很高；&lt;/li&gt;
+  &lt;li&gt;对业务部门存在强依赖，风险有一定的不可控性，例如大促期间做降级处理方案，下线部分影响性能的风控功能。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;32-事后处罚&quot;&gt;3.2 事后处罚&lt;/h4&gt;
+&lt;p&gt;事后处罚是指平台事后根据商家违规行为的严重程度、虚假交易次数和笔数的不同，对虚假交易商户或用户进行处罚。例如淘宝的虚假交易处罚规则如下：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;如果商家第一次和第二次发生虚假交易行为的笔数不超过 96 笔，将不进行扣分，如果交易笔数超过或等于 96 笔将被扣 12 分。&lt;/li&gt;
+  &lt;li&gt;卖家如果第三次发生虚拟交易的行为，交易笔数小于 96 笔将被扣 12 分，交易笔数大于或等于 96 笔将被扣 48 分。&lt;/li&gt;
+  &lt;li&gt;如果卖家发生四次以上的虚拟交易行为，不论笔数均视为情节特别严重。&lt;/li&gt;
+  &lt;li&gt;此外，商家刻意规避淘宝监管发生虚拟交易行为或者其虚假交易的行为造成严重后果的，无论次数和笔数均视为情节特别严重。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;四防控挑战&quot;&gt;四、防控挑战&lt;/h2&gt;
+&lt;p&gt;在虚假交易防控中，挑战主要来自于两个方面，一是误杀，二是漏杀。在这里聊聊几个常见的误杀场景。&lt;/p&gt;
+
+&lt;h3 id=&quot;41-代发交易行为被误杀&quot;&gt;4.1 代发交易行为被误杀&lt;/h3&gt;
+&lt;p&gt;代发交易行为是指用户 a 在商家 b 处下单后，商家 b 注册小号 b1 到商家 c 处购买用户 a 所需的商品，再由商家 c 直接发货至用户 a 的行为。过程如下图所示&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/13688310/43676627-46a48d74-9827-11e8-849a-fe738ba3182f.png&quot; alt=&quot;daifa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;代发交易行为对平台既有正面影响，又有负面影响。例如代发用户活跃度高，对平台数据变化起到了正面的作用；但同时，这可能会带来用户信息泄漏、正常用户获取退货受干扰，平台商家直面一线消费群体渠道被阻断等问题。&lt;/p&gt;
+
+&lt;p&gt;这里的重点是，代发交易行为与虚假交易行为相似度高，很容易被识别为是虚假交易。一旦被误杀，对应的商家将受到处罚，容易引起商家投诉。&lt;/p&gt;
+
+&lt;h3 id=&quot;42-商家进货行为被误杀&quot;&gt;4.2 商家进货行为被误杀&lt;/h3&gt;
+&lt;p&gt;上下游经销商等关联人士进行交易，交易模式为：线下代理商家 a，批量注册小号至商家 b 处大量下单，商家 a 直接将货物发送至线下代理商家 a 或 a 的客户。&lt;/p&gt;
+
+&lt;p&gt;进货用户订单对商家会产生明显正向影响，可迅速提升商家销量以及搜索和图墙排名等。但同时进货买家为了降低成本，同一进货用户经常批量注册账号后领券至商家处购物，该行为存在明显的套利倾向（薅羊毛）。&lt;/p&gt;
+
+&lt;p&gt;类似于代发交易行为，商家进货行为与虚假交易相似度高，因此，虚假交易防控规则命中该类型订单后易引发大量“商家和用户投诉”。&lt;/p&gt;
+
+&lt;h3 id=&quot;43-同行恶意竞争被误杀&quot;&gt;4.3 同行恶意竞争被误杀&lt;/h3&gt;
+&lt;p&gt;同行商家雇佣刷单团队采用最低劣的手法给竞争对手刷单，成功后向平台举报该商家存在虚假交易行为，要求平台处罚商家。&lt;/p&gt;
+
+&lt;h2 id=&quot;五发展趋势&quot;&gt;五、发展趋势&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;虚假交易作案方式将更加专业化，例如粗刷转精刷、机器刷改人工刷（目前已经是这样了）。对应的，其成本也在不断上升；&lt;/li&gt;
+  &lt;li&gt;虚假交易识别办法也将更加多样化和专业化，例如规则强依赖型转为模型强依赖型、跨行业跨场景联防联控、情报监测等。&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 04 Aug 2018 18:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/08/04/xu-jia-jiao-yi/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/04/xu-jia-jiao-yi/</guid>
+        
+        <category>虚假交易</category>
+        
+        
+        <category>反欺诈概念库</category>
+        
+      </item>
     
       <item>
         <title>记一次被“呼死你”电话骚扰的反骚扰经历</title>
@@ -1118,326 +1228,6 @@
         <category>dataframe</category>
         
         <category>explode</category>
-        
-        
-        <category>pyCoder之路</category>
-        
-      </item>
-    
-      <item>
-        <title>Python3.x 和 Python2.x 的主要区别</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#1性能&quot; id=&quot;markdown-toc-1性能&quot;&gt;1.性能&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#2编码&quot; id=&quot;markdown-toc-2编码&quot;&gt;2.编码&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#3-语法&quot; id=&quot;markdown-toc-3-语法&quot;&gt;3. 语法&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#4-字符串和字节串&quot; id=&quot;markdown-toc-4-字符串和字节串&quot;&gt;4. 字符串和字节串&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#5数据类型&quot; id=&quot;markdown-toc-5数据类型&quot;&gt;5.数据类型&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#6面向对象&quot; id=&quot;markdown-toc-6面向对象&quot;&gt;6.面向对象&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#7异常&quot; id=&quot;markdown-toc-7异常&quot;&gt;7.异常&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#8模块变动&quot; id=&quot;markdown-toc-8模块变动&quot;&gt;8.模块变动&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#9其它&quot; id=&quot;markdown-toc-9其它&quot;&gt;9.其它&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#参考&quot; id=&quot;markdown-toc-参考&quot;&gt;参考&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;1性能&quot;&gt;1.性能&lt;/h2&gt;
-&lt;p&gt;Py3.0 运行 pystone benchmark 的速度比 Py2.5 慢 30%。Guido 认为 Py3.0 有极大的优化空间，在字符串和整形操作上可以取得很好的优化结果。Py3.1 性能比 Py2.5 慢 15%，还有很大的提升空间。&lt;/p&gt;
-
-&lt;h2 id=&quot;2编码&quot;&gt;2.编码&lt;/h2&gt;
-&lt;p&gt;Py3.X源码文件默认使用 utf-8 编码，这就使得以下代码是合法的：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; 中国 = 'china' 
-    &amp;gt;&amp;gt;&amp;gt;print(中国) 
-    china 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;3-语法&quot;&gt;3. 语法&lt;/h2&gt;
-&lt;p&gt;1）去除了 &amp;lt;&amp;gt;，全部改用 !=&lt;/p&gt;
-
-&lt;p&gt;2）去除``，全部改用 repr()&lt;/p&gt;
-
-&lt;p&gt;3）关键词加入 as 和 with，还有 True, False, None&lt;/p&gt;
-
-&lt;p&gt;4）整型除法返回浮点数，要得到整型结果，请使用 //&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python 2.4.2以前
-
-   10/3      结果为 3     
-
-python 3.0
-
-   10 / 3 结果为 3.3333333333333335
-
-   10 // 3 结果为 3
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;5）加入 nonlocal 语句。使用 noclocal x 可以直接指派外围（非全局）变量&lt;/p&gt;
-
-&lt;p&gt;6）去除 print 语句，加入 print() 函数实现相同的功能。同样的还有 exec 语句，已经改为 exec() 函数，例如：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     2.X: print &quot;The answer is&quot;, 2*2 
-     3.X: print(&quot;The answer is&quot;, 2*2) 
-     2.X: print x,                              # 使用逗号结尾禁止换行 
-     3.X: print(x, end=&quot; &quot;)                     # 使用空格代替换行 
-     2.X: print                                 # 输出新行 
-     3.X: print()                               # 输出新行 
-     2.X: print &amp;gt;&amp;gt;sys.stderr, &quot;fatal error&quot; 
-     3.X: print(&quot;fatal error&quot;, file=sys.stderr) 
-     2.X: print (x, y)                          # 输出repr((x, y)) 
-     3.X: print((x, y))                         # 不同于print(x, y)!
-     
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;7）改变了顺序操作符的行为，例如 x&amp;lt;y，当 x 和 y 类型不匹配时抛出 TypeError 而不是返回随即的 bool 值&lt;/p&gt;
-
-&lt;p&gt;8）输入函数改变了，删除了raw_input，用 input 代替，Python3 中 input 得到的为 str ；Python2 的 input 的到的为 int 型，Python2 的 raw_input 得到的为 str 类型&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Python 2
-&amp;gt;&amp;gt;&amp;gt; my_input = input('enter a number: ')
-enter a number: 123
-
-&amp;gt;&amp;gt;&amp;gt; type(my_input)
-&amp;lt;type 'int'&amp;gt;
-
-&amp;gt;&amp;gt;&amp;gt; my_input = raw_input('enter a number: ')
-enter a number: 123
-
-&amp;gt;&amp;gt;&amp;gt; type(my_input)
-&amp;lt;type 'str'&amp;gt;
-
-
-Python 3
-&amp;gt;&amp;gt;&amp;gt; my_input = input('enter a number: ')
-
-enter a number: 123
-
-&amp;gt;&amp;gt;&amp;gt; type(my_input)
-&amp;lt;class 'str'&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;9）去除元组参数解包。不能 def(a, (b, c)):pass 这样定义函数了&lt;/p&gt;
-
-&lt;p&gt;10）新式的 8 进制字变量，相应地修改了 oct() 函数。&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;   2.X的方式如下： 
-     &amp;gt;&amp;gt;&amp;gt; 0666 
-     438 
-     &amp;gt;&amp;gt;&amp;gt; oct(438) 
-     '0666' 
-   3.X这样： 
-     &amp;gt;&amp;gt;&amp;gt; 0666 
-     SyntaxError: invalid token (&amp;lt;pyshell#63&amp;gt;, line 1) 
-     &amp;gt;&amp;gt;&amp;gt; 0o666 
-     438 
-     &amp;gt;&amp;gt;&amp;gt; oct(438) 
-     '0o666' 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;11）增加了 2 进制字面量和 bin() 函数 
-    »&amp;gt; bin(438) 
-    ‘0b110110110’ 
-    »&amp;gt; _438 = ‘0b110110110’ 
-    »&amp;gt; _438 
-    ‘0b110110110’&lt;/p&gt;
-
-&lt;p&gt;12）支持class decorator。用法与函数decorator一样：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; def foo(cls_a): 
-          def print_func(self): 
-             print('Hello, world!') 
-          cls_a.print = print_func 
-          return cls_a 
-    &amp;gt;&amp;gt;&amp;gt; @foo 
-    class C(object): 
-      pass 
-    &amp;gt;&amp;gt;&amp;gt; C().print() 
-    Hello, world! 
-    
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;4-字符串和字节串&quot;&gt;4. 字符串和字节串&lt;/h2&gt;
-&lt;p&gt;1）现在字符串只有str一种类型，但它跟2.x版本的unicode几乎一样。&lt;/p&gt;
-
-&lt;p&gt;2）关于字节串，请参阅“数据类型”的第2条目&lt;/p&gt;
-
-&lt;p&gt;3)&lt;/p&gt;
-
-&lt;h2 id=&quot;5数据类型&quot;&gt;5.数据类型&lt;/h2&gt;
-
-&lt;p&gt;1）Py3.X 去除了 long 类型，现在只有一种整型—— int ，但它的行为就像 2.X 版本的 long&lt;/p&gt;
-
-&lt;p&gt;2）新增了 bytes 类型，对应于 2.X 版本的八位串，定义一个 bytes 字面量的方法如下：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; b = b'china' 
-    &amp;gt;&amp;gt;&amp;gt; type(b) 
-    &amp;lt;type 'bytes'&amp;gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;bytes序列，一但形成，其内容是不可变的 ( 字节数组是可变的 )&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;s=&quot;ABCD&quot;
-b=s.encode(&quot;gbk&quot;)
-print b[0]       # 显示   65
-b[0] = 66   # 执行该句，出现异常: 'bytes' object does not support item assignment
-
-a = bytearray(   10 )
-a[0] = 25    # 可以用赋值语句更改其元素，但所赋的值必须在 0 ~ 255 之间
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;str 对象和 bytes 对象可以使用 .encode() (str -&amp;gt; bytes) or .decode() (bytes -&amp;gt; str) 方法相互转化。&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; s = b.decode() 
-    &amp;gt;&amp;gt;&amp;gt; s 
-    'china' 
-    &amp;gt;&amp;gt;&amp;gt; b1 = s.encode() 
-    &amp;gt;&amp;gt;&amp;gt; b1 
-    b'china' 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;由于在 python 3.0中字符串以 unicode 编码存储，当写入二进制文件时，字符串无法直接写入（或读取），必须以某种方式的编码为字节序列后，方可写入。&lt;/p&gt;
-
-&lt;p&gt;3）dict 的 .keys()、.items 和 .values() 方法返回迭代器，而之前的 iterkeys() 等函数都被废弃。同时去掉的还有 dict.has_key()，用 in 替代它&lt;/p&gt;
-
-&lt;h2 id=&quot;6面向对象&quot;&gt;6.面向对象&lt;/h2&gt;
-
-&lt;p&gt;1）引入抽象基类（Abstraact Base Classes，ABCs）。&lt;/p&gt;
-
-&lt;p&gt;2）容器类和迭代器类被ABCs化，所以cellections模块里的类型比Py2.5多了很多。&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; import collections 
-    &amp;gt;&amp;gt;&amp;gt; print('\n'.join(dir(collections))) 
-    Callable 
-    Container 
-    Hashable 
-    ItemsView 
-    Iterable 
-    Iterator 
-    KeysView 
-    Mapping 
-    MappingView 
-    MutableMapping 
-    MutableSequence 
-    MutableSet 
-    NamedTuple 
-    Sequence 
-    Set 
-    Sized 
-    ValuesView 
-    __all__ 
-    __builtins__ 
-    __doc__ 
-    __file__ 
-    __name__ 
-    _abcoll 
-    _itemgetter 
-    _sys 
-    defaultdict 
-    deque 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;另外，数值类型也被 ABCs 化。关于这两点，请参阅 PEP 3119和PEP 3141。&lt;/p&gt;
-
-&lt;p&gt;3）迭代器的 next() 方法改名为__next__()，并增加内置函数 next()，用以调用迭代器的 __next__() 方法&lt;/p&gt;
-
-&lt;p&gt;4）增加了 @abstractmethod 和 @abstractproperty 两个 decorator，编写抽象方法（属性）更加方便。&lt;/p&gt;
-
-&lt;h2 id=&quot;7异常&quot;&gt;7.异常&lt;/h2&gt;
-
-&lt;p&gt;1）所以异常都从 BaseException继承，并删除了StardardError&lt;/p&gt;
-
-&lt;p&gt;2）去除了异常类的序列行为和.message属性&lt;/p&gt;
-
-&lt;p&gt;3）用 raise Exception(args)代替 raise Exception, args语法&lt;/p&gt;
-
-&lt;p&gt;4）捕获异常的语法改变，引入了as关键字来标识异常实例，在Py2.5中：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; try: 
-    ...    raise NotImplementedError('Error') 
-    ... except NotImplementedError, error:
-
-    ...    print error.message 
-    ... 
-    Error
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;在Py3.0中：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; try: 
-          raise NotImplementedError('Error') 
-        except NotImplementedError as error: #注意这个 as 
-          print(str(error)) 
-    Error 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;5）异常链，因为__context__在3.0a1版本中没有实现&lt;/p&gt;
-
-&lt;h2 id=&quot;8模块变动&quot;&gt;8.模块变动&lt;/h2&gt;
-
-&lt;p&gt;1）移除了cPickle模块，可以使用pickle模块代替。最终我们将会有一个透明高效的模块。&lt;/p&gt;
-
-&lt;p&gt;2）移除了imageop模块&lt;/p&gt;
-
-&lt;p&gt;3）移除了 audiodev, Bastion, bsddb185, exceptions, linuxaudiodev, md5, MimeWriter, mimify, popen2,&lt;br /&gt;
-rexec, sets, sha, stringold, strop, sunaudiodev, timing和xmllib模块&lt;/p&gt;
-
-&lt;p&gt;4）移除了bsddb模块(单独发布，可以从http://www.jcea.es/programacion/pybsddb.htm获取)&lt;/p&gt;
-
-&lt;p&gt;5）移除了new模块&lt;/p&gt;
-
-&lt;p&gt;6）os.tmpnam()和os.tmpfile()函数被移动到tmpfile模块下&lt;/p&gt;
-
-&lt;p&gt;7）tokenize模块现在使用bytes工作。主要的入口点不再是generate_tokens，而是 tokenize.tokenize()&lt;/p&gt;
-
-&lt;h2 id=&quot;9其它&quot;&gt;9.其它&lt;/h2&gt;
-&lt;p&gt;1）在 Python 3 中，range() 是像 xrange() 那样实现以至于一个专门的 xrange() 函数都不再存在（在 Python 3 中xrange() 会抛出命名异常）。
-在 Python 2 中 xrange() 创建迭代对象的用法是非常流行的。比如： for 循环或者是列表/集合/字典推导式。这个表现十分像生成器（比如。“惰性求值”）。但是这个 xrange-iterable 是无穷的，意味着你可以无限遍历。由于它的惰性求值，如果你不得仅仅不遍历它一次，xrange() 函数 比 range() 更快（比如 for 循环）。尽管如此，对比迭代一次，不建议你重复迭代多次，因为生成器每次都从头开始。&lt;/p&gt;
-
-&lt;p&gt;2）bytes 对象不能 hash，也不支持 b.lower()、b.strip() 和 b.split() 方法，但对于后两者可以使用 b.strip(b’\n\t\r \f’) 和 b.split(b’ ‘) 来达到相同目的&lt;/p&gt;
-
-&lt;p&gt;3）zip()、map() 和 filter() 都返回迭代器。而 apply()、callable()、coerce()、execfile()、reduce() 和 reload() 函数都被去除了。
-现在可以使用 hasattr() 来替换 callable(). hasattr() 的语法如：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hasattr(string, '__name__')
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;4）string.letters 和相关的 .lowercase 和 .uppercase 被去除，请改用 string.ascii_letters 等&lt;/p&gt;
-
-&lt;p&gt;5）如果 x &amp;lt; y 的不能比较，抛出 TypeError 异常。2.x版本是返回伪随机布尔值的&lt;/p&gt;
-
-&lt;p&gt;6）__getslice__系列成员被废弃。a[i:j]根据上下文转换为&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a.__getitem__(slice(I, j))或 __setitem__和 
-__delitem__调用 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;7）file 类被废弃，在Py2.5中：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; file 
-    &amp;lt;type 'file'&amp;gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;在Py3.X中：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    &amp;gt;&amp;gt;&amp;gt; file 
-    Traceback (most recent call last): 
-    File &quot;&amp;lt;pyshell#120&amp;gt;&quot;, line 1, in &amp;lt;module&amp;gt; 
-       file 
-    NameError: name 'file' is not defined
-    
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;参考&quot;&gt;参考&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/codingmylife/archive/2010/06/06/1752807.html&quot;&gt; http://www.cnblogs.com/codingmylife/archive/2010/06/06/1752807.html
-&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cnblogs.com/hanggegege/p/5840005.html&quot;&gt; https://www.cnblogs.com/hanggegege/p/5840005.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/04/09/key-distinctions-of-python3-and-python2/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/04/09/key-distinctions-of-python3-and-python2/</guid>
-        
-        <category>python2</category>
-        
-        <category>python3</category>
         
         
         <category>pyCoder之路</category>
