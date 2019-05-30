@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="post" />
+    <list default="true" id="bd279b47-33cf-4baf-80d1-3055a9d51140" name="Default" comment="post">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-30-lbzlhz.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-30-lbzlhz.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +32,16 @@
           <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="2" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -43,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-08-18-xin-yong-ka-fan-qi-zha.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -65,32 +78,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-30-lbzlhz.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-09-14-jupyter-command-not-found.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-09-10-wu-lian-ka.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="13" lean-forward="true" selection-end-column="13" />
+              <first_editor relative-caret-position="201">
+                <caret line="18" column="35" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,7 +94,9 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-01-google-cha-jian.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -236,6 +231,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-08-11-xu-jia-yin-hang-ka.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-08-google-cha-jian.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-25-wu-lian-ka.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-30-lbzlhz.md" />
       </list>
     </option>
   </component>
@@ -336,27 +332,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513673744763</updated>
-    </task>
-    <task id="LOCAL-00035" summary="add comments">
-      <created>1523935558646</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1523935558646</updated>
-    </task>
-    <task id="LOCAL-00036" summary="add comments">
-      <created>1523935923268</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1523935923268</updated>
-    </task>
-    <task id="LOCAL-00037" summary="add comments">
-      <created>1523936309294</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1523936309294</updated>
     </task>
     <task id="LOCAL-00038" summary="add comments">
       <created>1523936874510</created>
@@ -680,7 +655,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559199990294</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="post">
+      <created>1559200126765</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1559200126765</updated>
+    </task>
+    <task id="LOCAL-00085" summary="post">
+      <created>1559200210855</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1559200210855</updated>
+    </task>
+    <task id="LOCAL-00086" summary="post">
+      <created>1559200868908</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1559200868909</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TodoView">
@@ -694,8 +690,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="22" width="1399" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24455734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24455734" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -713,7 +710,7 @@
       <window_info anchor="bottom" id="Debug Logs" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Execute Anonymous" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49446493" visible="true" weight="0.31043258" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49446493" visible="true" weight="0.31043258" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50553507" side_tool="true" weight="0.3241107" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.2819932" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -990,6 +987,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-18-xin-yong-ka-fan-qi-zha.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-14-jupyter-command-not-found.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-10-wu-lian-ka.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="13" lean-forward="true" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-01-google-cha-jian.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-08-25-wu-lian-ka.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1008,51 +1051,9 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-30-lbzlhz.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-14-jupyter-command-not-found.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-01-google-cha-jian.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-10-wu-lian-ka.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="13" lean-forward="true" selection-end-column="13" />
+          <first_editor relative-caret-position="201">
+            <caret line="18" column="35" lean-forward="true" selection-start-line="11" selection-end-line="18" selection-end-column="35" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-18-xin-yong-ka-fan-qi-zha.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
