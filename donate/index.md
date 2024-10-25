@@ -34,18 +34,5 @@ date: 2017-12-31 +0800
 
 <br>
 
-联系方式：`微信或脉脉扫一扫`
-------------------------------
-
-<hr>
-您可以选择微信（左）或脉脉（右）扫一扫
-
-<img src="/styles/images/wx_gzh.jpg" width = "200" height = "200" alt="微信二维码"/>
-&nbsp;&nbsp;
-<img src="/styles/images/maimai.jpeg" width = "200" height = "200" alt="脉脉二维码"/>
-
-<br>
-<br>
-
 
 <hr>
